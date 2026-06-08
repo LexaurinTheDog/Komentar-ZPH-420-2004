@@ -43,6 +43,42 @@ Zákon **nesměřuje** na svazky územních samosprávných celků větší než
 
 ZPH respektuje **právo na samosprávu** podle čl. 100 odst. 1 Ústavy: územní celek **volí mezi orgánovým přezkumem a auditorem** (§ 4 odst. 1). Současně však chrání legitimní zájem státu na řádném hospodaření s veřejnými prostředky — proto je přezkum **obligatorní každoročně** a ÚSC se mu nemůže vyhnout. Ústavněprávní kompromis: stát **požaduje**, aby přezkum proběhl, ale ÚSC si **vybírá**, kým bude proveden.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Dobrovolný svazek obcí „Vodovody a kanalizace Podhůří" sdružuje 18 obcí; vznikl podle § 49 zákona č. 128/2000 Sb. za účelem provozu skupinového vodovodu. Předseda svazku se domnívá, že povinnost nechat si přezkoumat hospodaření dopadá jen na obce, nikoli na DSO, a za rok 2025 přezkum vůbec nezajistí. Krajský úřad upozorní, že svazek do 30. 6. nepožádal o přezkum ani neoznámil auditora. Účastníci: DSO (přezkoumávaný subjekt), předseda svazku (statutární orgán dle stanov), krajský úřad (přezkoumávající orgán). Důkazy: zakladatelská smlouva a stanovy DSO, výpis z rejstříku svazků obcí vedeného krajským úřadem, doklad o (ne)podání žádosti.
+
+**2. Právní otázka.** Spadá dobrovolný svazek obcí do legislativní zkratky „územní celek" podle § 1, a vztahuje se tedy na něj povinnost obligatorního každoročního přezkumu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 ZPH — vymezuje předmět úpravy a zavádí legislativní zkratku „územní celek", jež výslovně zahrnuje i DSO.
+- *Související ustanovení téhož zákona:* § 4 odst. 1 a 9 (kdo a kdy žádá o přezkum, sankce za nesplnění); § 11 a § 13 (projednání zprávy a nápravná opatření u DSO prostřednictvím osoby určené stanovami).
+- *Související předpisy:* § 17 odst. 4 zákona č. 250/2000 Sb. (hmotněprávní povinnost přezkumu); § 49 a násl. zákona č. 128/2000 Sb. (právní povaha DSO).
+- *Judikatura:* nález Ústavního soudu k nutnosti zákonné formy ukládání povinností ÚSC (zmíněný v úvodu komentáře) — povinnosti dopadající na územní samosprávu musí mít zákonný základ, který § 1 ZPH ve spojení s § 17 RP-ÚR poskytuje.
+
+**4. Subsumpce.** DSO je výslovně podřazen pod znak „dobrovolný svazek obcí" v § 1 a tím pod zkratku „územní celek". Povinnost přezkumu je tedy dána (znak „uložené zvláštními právními předpisy" je naplněn § 17 odst. 4 RP-ÚR). Sporné není nic — domněnka předsedy o vynětí DSO je právně nesprávná.
+
+**5. Řešení.** Svazek je povinen přezkum zajistit stejně jako obec. Protože do 30. 6. nepožádal ani neoznámil auditora, krajský úřad postupuje podle § 4 odst. 9: do 28. 2. následujícího roku oznámí pochybení orgánu svazku (resp. osobě určené stanovami) a přezkum sám vykoná. Procesně: ověřit ve stanovách, kdo je statutárním orgánem, doručit oznámení o zahájení přezkumu (§ 5 odst. 3). Riziko: politicko-disciplinární dopad na předsedu; možná odpovědnost za škodu, vznikne-li svazku náklad navíc.
+
+**6. Varianty.** (a) Kdyby šlo o sdružení nad rámec DSO (např. regionální radu regionu soudržnosti), § 1 by nedopadal a režim by se řídil zvláštním předpisem (§ 16a zákona č. 248/2000 Sb.). (b) Kdyby DSO včas oznámil volbu auditora, povinnost by byla splněna a krajský úřad by přezkum nevykonával.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „DSO není ÚSC, tedy nepodléhá ZPH".* Neutralizace: § 1 nepoužívá pojem „ÚSC" izolovaně, nýbrž zavádí širší zkratku „územní celek", do níž DSO výslovně řadí — jazykový i systematický výklad shodně potvrzují podřazení.
+- *Protiargument „ZPH neukládá povinnost, jen procesní pravidla".* Je pravdivý, ale nevylučuje povinnost — hmotněprávní základ je v § 17 odst. 4 RP-ÚR; ZPH je prováděcím procesním kodexem, takže absence hmotné normy přímo v ZPH nic nemění.
+- *Slabé místo:* hranice mezi DSO a jinými formami spolupráce obcí (veřejnoprávní smlouvy, společné podniky) může být v praxi nejasná; je nutné ověřit zápis v rejstříku svazků.
+
+#### H. Praktický závěr
+
+Paragraf 1 vymezuje pouze procesní rovinu a zavádí zkratku „územní celek" (obec, kraj, hl. m. Praha, městská část, DSO). Hmotná povinnost přezkumu plyne z § 17 odst. 4 RP-ÚR. Pro praxi je klíčové, že DSO je plnohodnotným adresátem přezkumu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda subjekt spadá pod zkratku „územní celek" (obec / kraj / Praha / městská část / DSO).
+- [ ] Najít hmotněprávní titul povinnosti (§ 17 odst. 4 RP-ÚR, příp. § 16a zákona č. 248/2000 Sb.).
+- [ ] U DSO ověřit statutární orgán dle stanov a zápis v rejstříku svazků.
+- [ ] Odlišit subjekty mimo zkratku (regionální rady, obchodní společnosti obce — ty jen součinnost dle § 9).
+
+**Typicky rozhodné důkazy / podklady:** stanovy a zakladatelská smlouva DSO, výpis z rejstříku svazků obcí, zákon č. 250/2000 Sb. (§ 17), doklad o podané/nepodané žádosti o přezkum.
+
 ---
 
 ### § 2 — Předmět přezkoumání
@@ -139,6 +175,42 @@ Vznik **systému uzavřeného kruhu**: závěrečný účet je **přezkoumávan�
 
 Předmět ZPH se **liší** od předmětu **vnitřní finanční kontroly** podle zákona č. 320/2001 Sb. ZFK upravuje **proces uvnitř ÚSC** (předběžnou, průběžnou, následnou kontrolu hospodaření, interní audit) a **veřejnosprávní kontrolu** nadřazenými orgány (např. kontrola krajem u příjemce krajské dotace). ZPH je **periodický bilanční přezkum** výsledků hospodaření za uplynulý rok. **Oba režimy se sčítají, nikoliv vylučují.**
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec spravuje místní poplatek za komunální odpad. Při přezkumu za rok 2025 kontrolor krajského úřadu požaduje předložit jmenný seznam dlužníků poplatku a kompletní vyměřovací spisy jednotlivých poplatníků, aby ověřil stav pohledávek z poplatků (písm. d odst. 2). Tajemnice úřadu odmítne s odkazem na mlčenlivost správce daně. Účastníci: obec (správce místního poplatku = správce daně podle § 1 DŘ), kontrolor, krajský úřad. Důkazy: bilanční výkaz pohledávek, evidence místních poplatků, vnitřní směrnice o správě poplatků.
+
+**2. Právní otázka.** Může kontrolor v rámci předmětu přezkumu požadovat údaje o jednotlivých poplatnících místního poplatku, nebo brání tomu mlčenlivost podle § 2 odst. 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 2 písm. d) (stav pohledávek a nakládání s nimi je předmětem přezkumu) ve spojení s § 2 odst. 3 (vynětí údajů krytých mlčenlivostí dle daňového řádu).
+- *Související ustanovení téhož zákona:* § 3 písm. a) a d) (hlediska zákonnosti a správnosti dokladů); § 9 (součinnost zřízených PO — sem ale poplatková agenda nespadá).
+- *Související předpisy:* § 52 a násl. zákona č. 280/2009 Sb. (povinnost mlčenlivosti správce daně); § 1 odst. 1 DŘ (správa daně, jíž je i místní poplatek); § 11 zákona č. 565/1990 Sb., o místních poplatcích.
+- *Judikatura:* obecně uznávaný nosný závěr správních soudů, že mlčenlivost správce daně chrání individuální daňové údaje a prolomit ji lze jen na zákonném podkladě; přezkum hospodaření takový titul pro individuální údaje nezakládá.
+
+**4. Subsumpce.** Stav pohledávek je předmětem přezkumu (§ 2 odst. 2 písm. d). Avšak jde-li o pohledávky z místních poplatků, vztahuje se na individuální údaje o poplatnících mlčenlivost dle DŘ. Aplikuje se výjimka § 2 odst. 3 — tyto údaje jsou z předmětu vyloučeny. Sporné není naplnění znaku „pohledávka", sporný je rozsah přístupu: agregát ano, individuální spis ne.
+
+**5. Řešení.** Kontrolor je oprávněn ověřit pouze **agregovaná čísla** (celková výše pohledávek z poplatků, jejich podíl, tvorba opravných položek), nikoli individuální vyměřovací spisy. Odmítnutí předložit jmenné údaje je oprávněné a nezakládá přestupek ani „nevytvoření podmínek pro přezkum" (§ 10 odst. 3 písm. c bod 6). Postup: obec předloží sumární výkaz a metodiku vymáhání; kontrolor ověří správnost účtování a vymáhání na agregátní úrovni. Riziko: kontrolor by neměl trvat na individuálních datech, jinak by se sám dopustil porušení mlčenlivosti.
+
+**6. Varianty.** (a) Šlo-li by o pohledávku z nájmu obecního bytu (soukromoprávní vztah, nikoli správa daně), mlčenlivost dle DŘ se neuplatní a kontrolor smí nahlédnout do konkrétní smlouvy i dlužné částky. (b) Pokud by obec sama dobrovolně poskytla individuální údaje, kontrolor by je stejně neměl použít — výjimka je kategorická a neprolomitelná i se souhlasem obce.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „pohledávky jsou výslovně předmětem dle písm. d), tedy musí být přístupné kompletně".* Neutralizace: odst. 3 je speciální vůči odst. 2 a má přednost — vylučuje právě tu část pohledávkové agendy, která je kryta daňovou mlčenlivostí.
+- *Protiargument „bez individuálních dat nelze ověřit správnost vymáhání".* Neutralizace: správnost lze ověřit přes metodiku, namátkový agregát a kontrolu opravných položek; zákon vědomě upřednostnil ochranu poplatníků před úplností přezkumu.
+- *Slabé místo:* hranice „daňové" vs. „nedaňové" pohledávky bývá nejasná u smíšených agend (např. pokuty); je třeba u každé položky zkoumat, zda jde o správu daně dle DŘ.
+
+#### H. Praktický závěr
+
+Předmět přezkumu je dvouvrstvý (odst. 1 toky, odst. 2 stavy a majetek) a uzavřený mlčenlivostní výjimkou odst. 3. Pro praxi je rozhodné odlišit, které pohledávky/údaje spadají pod správu daně (mlčenlivost) a které nikoli.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařadit každou položku do odst. 1 (toky) nebo odst. 2 (majetek a stavy).
+- [ ] U pohledávek/údajů ověřit, zda nejde o data krytá mlčenlivostí dle DŘ (§ 2 odst. 3).
+- [ ] U veřejných zakázek vyloučit úkony již přezkoumané ÚOHS (zákaz dvojkolejnosti, písm. c odst. 2).
+- [ ] U dluhového pravidla zařadit ověření poměru dluhu k průměru příjmů (písm. i odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** závěrečný účet a jeho přílohy, účetní výkazy (rozvaha, výkaz pro hodnocení plnění rozpočtu), inventarizační doklady, smlouvy o dotacích, evidence místních poplatků (jen agregát).
+
 ---
 
 ### § 3 — Hlediska přezkoumání
@@ -200,6 +272,42 @@ Hodnotí se rovněž **návratná finanční výpomoc** (RFV) — bezúročná z
 #### Písm. d) — věcná a formální správnost dokladů („documentary audit")
 
 Hledisko kontroluje, zda **doklady** (faktury, smlouvy, objednávky, dodací listy, výdajové a příjmové doklady, účetní záznamy) **odpovídají skutečnosti** (věcná správnost) a mají **náležitosti vyžadované předpisy** (formální správnost — § 11 ZÚč: účetní doklad). Toto hledisko je **podmínkou důkazu** pro hlediska a–c — bez správných dokladů nelze ověřit ani zákonnost, ani rozpočtový soulad, ani účelovost.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec obdržela z rozpočtu kraje účelovou dotaci 500 000 Kč na opravu střechy mateřské školy s podmínkou realizace do konce roku a předložení dokladů o spotřebě. Z dotace obec uhradila 380 000 Kč za opravu střechy a 120 000 Kč použila na nákup herních prvků na zahradu školy, protože „peníze stejně šly škole". Kontrolor zkoumá operaci ze všech čtyř hledisek § 3. Účastníci: obec (příjemce dotace), kraj (poskytovatel), kontrolor. Důkazy: smlouva o poskytnutí dotace, faktury za střechu i herní prvky, předávací protokoly, výpis z účtu, rozpočtové opatření.
+
+**2. Právní otázka.** Které hledisko § 3 je porušeno použitím části dotace na jiný účel a jaký to má následek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 písm. c) (dodržení účelu dotace a podmínek použití) jako primárně dotčené; vedle něj písm. a) (zákonnost) a písm. b) (soulad s rozpočtem).
+- *Související ustanovení téhož zákona:* § 2 odst. 1 písm. g) (vyúčtování dotací jako předmět); § 10 odst. 3 písm. c) bod 1 (porušení rozpočtové kázně jako závažný nedostatek).
+- *Související předpisy:* § 22 zákona č. 250/2000 Sb. (porušení rozpočtové kázně u dotace z rozpočtu obce/kraje → odvod + penále); § 10a téhož zákona (dotace a NFV).
+- *Judikatura:* ustálený nosný závěr Nejvyššího správního soudu, že použití dotace na jiný než sjednaný účel je porušením rozpočtové kázně i tehdy, byl-li příjemce v dobré víře, že jde o „téhož" konečného beneficienta; rozhodný je sjednaný účel, nikoli ekonomická účelnost.
+
+**4. Subsumpce.** Z hlediska písm. c) je naplněn znak „nedodržení účelu" — 120 000 Kč bylo použito mimo sjednaný účel (oprava střechy). Z hlediska písm. b) jde o použití prostředků na jiný účel, než stanoví rozpočtová vázanost. Z hlediska písm. a) jde o porušení podmínek poskytnutí dle § 22 RP-ÚR. Hledisko písm. d) je naplněno (doklady jsou věcně správné — herní prvky skutečně pořízeny), to však porušení účelu nezhojuje.
+
+**5. Řešení.** Kontrolor uvede ve zprávě závažný nedostatek dle § 10 odst. 3 písm. c) bodu 1 (porušení rozpočtové kázně). Následuje řízení o **odvodu** ve výši neoprávněně použitých 120 000 Kč do rozpočtu kraje + penále (§ 22 RP-ÚR), které vede poskytovatel (kraj). Obec by měla preventivně požádat poskytovatele o změnu účelu před realizací, případně využít institutu prominutí odvodu. Riziko: penále narůstá za každý den prodlení.
+
+**6. Varianty.** (a) Kdyby obec před nákupem herních prvků sjednala s krajem dodatek rozšiřující účel, k porušení by nedošlo. (b) Kdyby šlo o dotaci ze státního rozpočtu / Národního fondu, řešil by se odvod podle § 44 zákona č. 218/2000 Sb. (ZRP-S), nikoli podle § 22 RP-ÚR, a kontrolovat by mohl i poskytovatel z kapitoly SR (§ 21 odst. 1 ZPH).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „prostředky šly škole, účel byl materiálně naplněn".* Neutralizace: rozhodný je formálně sjednaný účel; ekonomická blízkost beneficienta porušení rozpočtové kázně neodstraňuje.
+- *Protiargument „doklady jsou věcně i formálně správné (písm. d), tedy operace je v pořádku".* Neutralizace: hlediska jsou kumulativní; splnění písm. d) je jen nutnou, nikoli postačující podmínkou — porušení účelu dle písm. c) trvá.
+- *Slabé místo:* zařazení mezi „nezávažný" a „závažný" nedostatek může být sporné u marginálních částek; u jiného účelu dotace však praxe i § 10 jednoznačně směřují k závažnému nedostatku.
+
+#### H. Praktický závěr
+
+Hlediska § 3 jsou kumulativní hodnotící mřížkou (zákonnost, rozpočtový soulad, účelovost dotací, správnost dokladů). Nejčastějším zdrojem závažných nálezů je hledisko c) — porušení účelu dotace.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pro každou operaci projít všechna čtyři hlediska (a–d), nikoli jen jedno.
+- [ ] U dotací ověřit sjednaný účel a podmínky (smlouva/rozhodnutí o poskytnutí) a porovnat s faktickým užitím.
+- [ ] U výdajů ověřit krytí rozpočtem / rozpočtovým opatřením (písm. b).
+- [ ] Odlišit odvod dle § 22 RP-ÚR (dotace z rozpočtu ÚSC) od § 44 ZRP-S (dotace ze SR/NF).
+
+**Typicky rozhodné důkazy / podklady:** smlouva/rozhodnutí o poskytnutí dotace, faktury a předávací protokoly, výpisy z účtu, schválený rozpočet a rozpočtová opatření, vyúčtování dotace.
 
 ---
 
@@ -295,6 +403,43 @@ Pokud ÚSC **nepožádá o přezkum ani neoznámí auditora** do 30. 6., přezko
 
 Tj. nesplnění není absolutní překážkou přezkumu; přezkum proběhne **vždy** (obligatornost). Oznámení zastupitelstvu má politicko-disciplinární funkci (informuje volený orgán o pochybení vedení obce). Současně jde o **přestupek územního celku** podle obecné formulace § 14 (přímý sankční titul je sice zúžen na konkrétní situace, ale pochybení v § 4 ZPH může vést k vyvození odpovědnosti starosty/primátora jako úřední osoby).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec se 6 000 obyvateli vykonává hospodářskou činnost (provoz lesů). Zastupitelstvo dne 20. 6. usnesením rozhodlo zadat přezkum auditorovi a smlouvu uzavřelo až 10. 1. následujícího roku, o čemž krajský úřad informovalo až 20. 2. Mezitím krajský úřad, který do 30. 6. neobdržel ani žádost, ani oznámení o auditorovi, zařadil obec do vlastního plánu přezkoumání a v lednu u ní zahájil dílčí přezkum. Vznikne duplicita. Účastníci: obec, auditor, krajský úřad. Důkazy: usnesení zastupitelstva, smlouva o auditorské činnosti, doklad o (ne)oznámení do 30. 6., plán přezkoumání KÚ.
+
+**2. Právní otázka.** Vznikla obci povinnost strpět přezkum krajským úřadem, jestliže volbu auditora sice učinila včas (usnesením do 30. 6.), ale oznámení dle § 4 odst. 1 a 8 podala opožděně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 odst. 1 (lhůta do 30. 6. pro žádost nebo oznámení volby auditora), odst. 7 (povinné náležitosti auditorské smlouvy), odst. 8 (informace o uzavření smlouvy nejpozději do 31. 1.), odst. 9 (sankční postup KÚ při nesplnění).
+- *Související ustanovení téhož zákona:* § 5 odst. 3 (zahájení přezkumu oznámením); § 12 (přezkum auditorem); § 14 odst. 1 (přestupky).
+- *Související předpisy:* § 84 odst. 2 písm. b) a § 43 zákona č. 128/2000 Sb. (pravomoc zastupitelstva ke schválení závěrečného účtu a volbě způsobu přezkumu); zákon č. 93/2009 Sb. (auditorská smlouva); zákon č. 340/2015 Sb. (registr smluv).
+- *Judikatura:* obecně uznávaný výklad, že lhůty pořádkové povahy ve veřejné správě samy o sobě nezakládají neplatnost úkonu, vyvolávají však následky stanovené zákonem (zde duplicitní přezkum dle odst. 9).
+
+**4. Subsumpce.** Znak „rozhodly zadat auditorovi" byl naplněn (usnesení do 30. 6.), ale znak „v téže lhůtě oznámí" naplněn nebyl — oznámení přišlo opožděně. Pro krajský úřad je rozhodující stav k 30. 6.: bez oznámení musel obec zařadit do svého plánu. Nesplnění oznamovací povinnosti dle odst. 8 (do 31. 1.) zde rovněž nastalo (oznámení až 20. 2.).
+
+**5. Řešení.** Protože k 30. 6. ani do 28. 2. neměl KÚ oznámení, byl oprávněn (dokonce povinen dle odst. 9) přezkum zařadit a zahájit. Obec tím riskuje **dvojí přezkum na svůj náklad** — auditorský (smluvní) i krajský (na náklad obce, vykonává-li ho KÚ navíc). Řešení do budoucna: dodržet lhůtu do 30. 6. a informovat KÚ bez zbytečného odkladu po uzavření smlouvy. Riziko: zatímco prosté opoždění oznámení dle odst. 8 přímo v § 14 sankcionováno není, neposkytnutí součinnosti auditorovi již ano (§ 14 odst. 1 písm. d).
+
+**6. Varianty.** (a) Kdyby obec měla méně než 800 obyvatel a nevykonávala hospodářskou činnost, prováděl by KÚ jednorázové přezkoumání (odst. 5), nikoli dílčí — rozhodný je počet obyvatel k 1. 1. (odst. 6). (b) Kdyby oznámení volby auditora došlo KÚ do 30. 6., KÚ by obec z plánu vyřadil a žádná duplicita by nevznikla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rozhodnutí zastupitelstva do 30. 6. stačí, oznámení je formalita".* Neutralizace: zákon výslovně váže následek na **oznámení** příslušnému úřadu „v téže lhůtě" — interní usnesení obce KÚ nezná, dokud mu není sděleno.
+- *Protiargument „nelze obec nutit ke dvojímu přezkumu, je to nehospodárné".* Neutralizace: odst. 9 ukládá KÚ přezkum vykonat při nesplnění povinnosti; nehospodárnost jde k tíži obce, která lhůtu zmeškala.
+- *Slabé místo:* zákon výslovně nesankcionuje opožděné oznámení dle odst. 8 v § 14; spor o náklady duplicitního přezkumu může být veden v rovině náhrady škody vůči odpovědnému funkcionáři.
+
+#### H. Praktický závěr
+
+Paragraf 4 je procesním kalendářem: do 30. 6. žádost nebo oznámení volby auditora; uzavření auditorské smlouvy s náležitostmi dle § 2, 3, 10; informace KÚ do 31. 1.; sankční postup KÚ do 28. 2. Klíčové je hlídat lhůty a včas informovat příslušný úřad.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Do 30. 6. podat žádost KÚ/MF/MHMP nebo oznámit volbu auditora.
+- [ ] Volbu i závěrečný účet schválit usnesením zastupitelstva (resp. orgánu DSO dle stanov).
+- [ ] V auditorské smlouvě sjednat předmět (§ 2), hlediska (§ 3), obsah zprávy (§ 10) a lhůtu předání.
+- [ ] Informovat příslušný úřad o uzavření smlouvy bez zbytečného odkladu, nejpozději do 31. 1.
+- [ ] U zařazení do režimu (jednorázové/dílčí) ověřit počet obyvatel k 1. 1.
+
+**Typicky rozhodné důkazy / podklady:** usnesení zastupitelstva o volbě způsobu přezkumu, auditorská smlouva, plán přezkoumání KÚ, doklady o doručení žádosti/oznámení, evidence počtu obyvatel k 1. 1.
+
 ---
 
 ### § 5 — Předpoklady pro výkon přezkoumání
@@ -344,6 +489,42 @@ Doručení se řídí KŘ a subsidiárně daňovým řádem (v případě finan�
 #### Přístup do centrálního systému účetních informací státu (CSÚIS) (odst. 4)
 
 Vloženo v rámci postupné digitalizace. Kontrolor je **oprávněn si vyžádat účetní záznamy** prostřednictvím **CSÚIS** — Centrálního systému účetních informací státu, který provozuje MF (§ 4 odst. 12 ZÚč; technicky též tzv. **iSZSL**). Tím se výrazně **zrychluje** přístup k účetním datům — kontrolor nemusí čekat na fyzické předávání ÚSC, ale stáhne výkazy přímo. Omezení: vyžádání podléhá **podmínkám zákona o účetnictví** (mlčenlivost správce CSÚIS, vázanost účelem). Toto ustanovení neopravňuje k získání **jiných dokladů** než účetních záznamů (smlouvy, faktury, korespondence se i nadále vyžadují od ÚSC přímo).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad oznámí obci přezkum a jako kontrolora pověřeného řízením určí zaměstnance, který byl před třemi lety pravomocně odsouzen pro nedbalostní porušení povinnosti při správě cizího majetku (§ 221 TZ); odsouzení dosud nebylo zahlazeno. Starosta se o tom dozví a namítá, že kontrolor není bezúhonný a přezkum je proto vadný. Oznámení o zahájení navíc došlo do datové schránky obce jen 3 dny před zahájením. Účastníci: obec, kontrolor, krajský úřad. Důkazy: oznámení o zahájení přezkumu s uvedením jména kontrolora, výpis z evidence Rejstříku trestů, doklad o doručení do datové schránky (čas dodání/přihlášení).
+
+**2. Právní otázka.** Splňuje pověřený kontrolor předpoklad bezúhonnosti podle § 5 odst. 2 a byla dodržena 5denní lhůta pro oznámení o zahájení přezkumu podle § 5 odst. 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 odst. 1 (kvalifikační předpoklady: vzdělání, 3 roky praxe, bezúhonnost), odst. 2 (definice bezúhonnosti), odst. 3 (oznámení nejpozději 5 dnů předem se jménem pověřeného kontrolora).
+- *Související ustanovení téhož zákona:* § 6 (práva a povinnosti kontrolorů); § 10 odst. 1 (zpráva nahrazuje protokol dle KŘ).
+- *Související předpisy:* § 220, § 221 TZ (porušení povinnosti při správě cizího majetku); § 105 TZ (zahlazení odsouzení); § 234/2014 Sb. a § 312/2002 Sb. (postavení a způsobilost zaměstnanců); § 5 a § 9 zákona č. 255/2012 Sb. (oznámení o zahájení, podjatost); § 17 zákona č. 300/2008 Sb. (doručování do datové schránky).
+- *Judikatura:* obecně uznávaný závěr, že vady ve složení kontrolního orgánu se promítají do zákonnosti kontrolních zjištění, jen pokud mohly mít vliv na výsledek; samotné podezření bez vlivu na obsah zprávu nezneplatňuje.
+
+**4. Subsumpce.** Kontrolor byl odsouzen pro trestný čin majetkové povahy, byť z nedbalosti — to dle odst. 2 vylučuje bezúhonnost (na rozdíl od obecné bezúhonnosti, kde u nedbalosti postačí). Odsouzení nebylo zahlazeno, fikce neodsouzení (§ 105 TZ) nenastala. Znak bezúhonnosti tedy naplněn není. Současně 3denní předstih oznámení nedosahuje zákonného minima 5 dnů (odst. 3).
+
+**5. Řešení.** Pověření takového kontrolora je v rozporu s § 5 odst. 1 a 2; krajský úřad by měl řízení přezkumu svěřit jinému, bezúhonnému kontrolorovi. Obec může namítat vadu složení a zkrácení lhůty; má-li to vliv na výsledek, jde o důvod k nápravě. Procesně: uplatnit námitku, požadovat nové oznámení v zákonné lhůtě a výměnu kontrolora. Riziko: pokud se vada neprojeví v obsahu zprávy a obec ji neuplatní, soud ji nemusí považovat za podstatnou.
+
+**6. Varianty.** (a) Kdyby odsouzení bylo zahlazeno (§ 105 TZ), kontrolor by podmínku bezúhonnosti splňoval a námitka by neobstála. (b) Kdyby šlo o odsouzení pro nedbalostní trestný čin **nesouvisející** s výkonem veřejné správy a nemajetkové povahy (např. nedbalostní ublížení na zdraví), bezúhonnost dle odst. 2 by nebyla vyloučena.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nedbalostní delikt bezúhonnost nevylučuje".* Neutralizace: odst. 2 je přísnější než obecná úprava — u trestných činů majetkové povahy a činů souvisejících s veřejnou správou vylučuje bezúhonnost i v nedbalostní formě.
+- *Protiargument „kratší lhůta neškodí, obec doklady stejně měla připravené".* Neutralizace: 5denní lhůta je zákonné minimum chránící přípravu obce; její zkrácení je vadou postupu, byť o její závažnosti rozhoduje vliv na výsledek.
+- *Slabé místo:* obec nemá přímý nárok na výměnu konkrétního kontrolora mimo režim podjatosti (§ 9 KŘ); argumentace musí směřovat k nesplnění zákonných předpokladů, nikoli k pouhé nelibosti.
+
+#### H. Praktický závěr
+
+Paragraf 5 stanoví kvalifikační minima kontrolora (střední vzdělání, 3 roky relevantní praxe, přísnější bezúhonnost) a procesní start přezkumu (písemné oznámení se jménem pověřeného kontrolora min. 5 dnů předem). Kontrolor smí čerpat účetní záznamy i přes CSÚIS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit splnění kvalifikace kontrolora (vzdělání, 3 roky praxe, bezúhonnost dle odst. 2 i zvláštních předpisů).
+- [ ] Zkontrolovat, že oznámení o zahájení došlo nejpozději 5 dnů předem a obsahuje jméno pověřeného kontrolora.
+- [ ] U bezúhonnosti zohlednit případné zahlazení odsouzení (§ 105 TZ).
+- [ ] Případnou vadu uplatnit námitkou; argumentovat vlivem na obsah zprávy.
+
+**Typicky rozhodné důkazy / podklady:** oznámení o zahájení přezkumu, doklady o kvalifikaci a bezúhonnosti kontrolora, doklad o doručení do datové schránky (čas), případně výpis z Rejstříku trestů.
 
 ---
 
@@ -416,6 +597,42 @@ Funkce dvojího oznámení:
 
 Typické případy: zpronevěra dotace (§ 206 TZ), zneužití pravomoci úřední osoby (§ 329 TZ), porušení povinnosti při správě cizího majetku (§ 220, 221 TZ), neoprávněné podnikání (§ 251 TZ), podvod při čerpání dotace (§ 212 TZ — dotační podvod).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Při dílčím přezkoumání v listopadu kontrolor zjistí, že obec neúčtovala o pohledávce z nájmu a chybně zařadila výdaj do nesprávné rozpočtové položky. Seznámí obec se zápisem (§ 6 odst. 1 písm. b). Obec do konce roku obě chyby napraví. Po skončení roku kontrolor předá návrh zprávy, kde uvádí jen jeden přetrvávající nedostatek; obec ve 15denní lhůtě podá písemné stanovisko s námitkou a doloží opravné účetní doklady. Kontrolor část námitek uzná, část ne, sepíše písemné závěry a projedná je s obcí. Účastníci: obec, kontrolor pověřený řízením, jeho nadřízený. Důkazy: zápis z dílčího přezkoumání, návrh zprávy, stanovisko obce, opravné účetní doklady, písemné závěry z prověření námitek.
+
+**2. Právní otázka.** V jakém pořadí a lhůtách musí kontrolor provést kontradiktorní fázi a jaký je důsledek toho, že obec nedostatek z dílčího přezkoumání odstranila ještě před vydáním zprávy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 odst. 1 písm. a)–f) (sled úkonů: zápisy a zpráva → seznámení → návrh zprávy → 15denní stanovisko → prověření námitek a projednání do 15 dnů → projednání konečného znění), odst. 2 (oznamovací povinnost při podezření z trestného činu).
+- *Související ustanovení téhož zákona:* § 7 (zrcadlová práva ÚSC); § 10 odst. 3 a 5 (klasifikace závěru, stanovisko jako příloha); § 13 (nápravná opatření).
+- *Související předpisy:* § 8 a § 158 zákona č. 141/1961 Sb., tr. řád (oznámení OČTŘ); § 12 a § 13 zákona č. 255/2012 Sb. (protokol o kontrole, námitky — modifikováno ZPH).
+- *Judikatura:* obecně uznávaná zásada práva na slyšení v kontrolním řízení — kontrolovaný subjekt musí mít před vydáním konečného výstupu reálnou možnost se k zjištěním vyjádřit a jeho námitky musí být přezkoumatelně vypořádány.
+
+**4. Subsumpce.** Kontrolor splnil krok 1–2 (zápis + seznámení). Obec využila možnost nápravy „za účelem přijetí opatření" (písm. b) a chyby odstranila → do konečné zprávy se promítnou jen nedostatky trvající. Krok 3–5 (návrh, stanovisko, prověření) proběhl v zákonných 15denních lhůtách. Znak „prověřit námitky a projednat do 15 dnů" je naplněn; podpis závěrů kontrolorem pověřeným řízením nebo nadřízeným je dodržen.
+
+**5. Řešení.** Odstraněné nedostatky se v konečné zprávě neuvedou jako trvající; neuznané námitky se ve zprávě objeví jako přetrvávající nedostatek, akceptované jako odstraněné. Konečné znění kontrolor s obcí projedná (písm. f). Procesní postup je správný. Riziko: nedodrží-li kontrolor 15denní lhůty bez odůvodnění, jde o vadu postupu; obec by měla lhůty hlídat a stanovisko doručit přímo kontrolorovi pověřenému řízením (nikoli na podatelnu obecně).
+
+**6. Varianty.** (a) Kdyby zjištění nasvědčovalo spáchání trestného činu (např. fiktivní faktury), kontrolor by paralelně postupoval dle odst. 2 — oznámil OČTŘ a neprodleně písemně informoval zastupitelstvo. (b) Kdyby obec nedostatek z dílčího přezkoumání neodstranila, ve zprávě by se objevil jako „neodstranění nedostatku" — závažný nedostatek dle § 10 odst. 3 písm. c) bodu 5.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „kontrolor nemusí čekat na stanovisko, výsledek je dán zjištěním".* Neutralizace: písm. d) a e) zakládají právo na stanovisko a povinnost námitky prověřit a projednat — bez toho je zpráva procesně vadná.
+- *Protiargument „odstraněné chyby se stejně mají ve zprávě uvést".* Neutralizace: smyslem písm. b) je umožnit nápravu ještě v průběhu; odstraněné nedostatky se neuvádějí jako trvající, což odpovídá kontradiktorní logice přezkumu.
+- *Slabé místo:* hranice „odůvodněného případu" pro prodloužení lhůt je neurčitá; kontrolor by měl prodloužení vždy zdůvodnit, jinak hrozí námitka zkrácení práv obce.
+
+#### H. Praktický závěr
+
+Paragraf 6 stanoví šestikrokový kontradiktorní rytmus přezkumu (zápisy → seznámení → návrh zprávy → 15denní stanovisko → prověření námitek a projednání do 15 dnů → konečné znění) a oznamovací povinnost při podezření z trestného činu. Klíčem je dodržet pořadí a lhůty a umožnit obci nápravu i slyšení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zkontrolovat, že obec byla seznámena se zápisem z dílčího přezkoumání a měla možnost nápravy.
+- [ ] Ověřit předání návrhu zprávy a poskytnutí 15denní lhůty pro stanovisko (případné prodloužení odůvodnit).
+- [ ] Ověřit písemné prověření námitek a jejich projednání do 15 dnů od doručení stanoviska.
+- [ ] Při podezření z trestného činu doložit oznámení OČTŘ i neprodlené písemné informování zastupitelstva (odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** zápisy z dílčích přezkoumání, návrh a konečné znění zprávy, stanovisko obce, písemné závěry z prověření námitek, doklady o nápravě, případné oznámení OČTŘ.
+
 ---
 
 ### § 7 — Práva a povinnosti územních celků
@@ -465,6 +682,42 @@ ZPH explicitně **neudílí ÚSC**:
 
 ÚSC se může proti zprávě bránit **opatřením k nápravě** (§ 13) a v případě navazujícího odvodu **odvoláním proti rozhodnutí o odvodu** ve smyslu DŘ.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec nesouhlasí se závěrem zprávy, podle něhož došlo k porušení rozpočtové kázně. Námitky obce kontrolor po prověření odmítl. Obec proto k návrhu zprávy doručila kontrolorovi pověřenému řízením písemné stanovisko a požaduje jeho přiložení ke zprávě. Starosta zároveň zvažuje, že proti zprávě podá „odvolání" ke krajskému úřadu. Účastníci: obec (starosta, zastupitelstvo), kontrolor, krajský úřad. Důkazy: návrh i konečná zpráva, písemné stanovisko obce, doklad o jeho doručení kontrolorovi, usnesení zastupitelstva o projednání závěrečného účtu.
+
+**2. Právní otázka.** Má obec právo na přiložení svého stanoviska ke zprávě a může se proti samotné zprávě o výsledku přezkoumání bránit odvoláním nebo správní žalobou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 písm. a)–d) (právo být seznámen se zápisy, s návrhem zprávy i konečnou zprávou, obdržet stejnopisy, doručit stanovisko a žádat jeho přiložení).
+- *Související ustanovení téhož zákona:* § 6 odst. 1 (korelativní povinnosti kontrolora); § 10 odst. 5 (stanovisko jako povinná příloha); § 13 (nápravná opatření jako forma „obrany").
+- *Související předpisy:* § 17 odst. 6 a 7 zákona č. 250/2000 Sb. (zveřejnění a projednání závěrečného účtu se zprávou); § 65 a násl. s. ř. s. (žaloba proti rozhodnutí — jen proti navazujícím rozhodnutím, např. o odvodu); § 22 RP-ÚR (odvod a opravné prostředky dle DŘ).
+- *Judikatura:* obecně uznávaný závěr správních soudů, že protokol/zpráva o kontrole není rozhodnutím o veřejných subjektivních právech a sama o sobě nepodléhá žalobě ve správním soudnictví; soudně přezkoumatelné je až navazující rozhodnutí (o odvodu, o pokutě).
+
+**4. Subsumpce.** Stanovisko bylo doručeno kontrolorovi pověřenému řízením → naplněn znak písm. c) i § 10 odst. 5 → vzniká povinnost je přiložit ke zprávě. Naopak „odvolání" proti zprávě nemá oporu — zpráva není rozhodnutím; znak „rozhodnutí o právech a povinnostech" naplněn není, tudíž opravný prostředek ani žaloba proti zprávě nepřísluší.
+
+**5. Řešení.** Kontrolor musí stanovisko přiložit ke konečné zprávě (zastupitelstvo i další adresáti tak vidí kontradiktorní obraz). Proti zprávě jako takové se obec odvolat nemůže; brání se (i) opatřením k nápravě a vlastním stanoviskem dle § 13 a § 7 písm. c), (ii) až proti navazujícímu rozhodnutí o odvodu odvoláním dle DŘ a poté žalobou ve správním soudnictví. Riziko: pokud obec spoléhá na neexistující „odvolání proti zprávě", zmešká skutečné opravné prostředky proti rozhodnutí o odvodu.
+
+**6. Varianty.** (a) Kdyby obec stanovisko doručila opožděně nebo nesprávnému adresátovi (ne kontrolorovi pověřenému řízením), povinnost přiložení dle § 10 odst. 5 by nevznikla. (b) Kdyby na zprávu nenavazovalo žádné rozhodnutí (čistý výrok bez odvodu), nebylo by co soudně přezkoumávat — obrana by se vyčerpala přiložením stanoviska.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „pokud je zpráva závazná pro závěrečný účet, musí být i soudně napadnutelná".* Neutralizace: závaznost pro projednání závěrečného účtu z ní nečiní rozhodnutí o právech; přezkoumatelné je až navazující rozhodnutí o odvodu/pokutě.
+- *Protiargument „kontrolor nemusí přikládat stanovisko, stačí, že je prověřil".* Neutralizace: § 7 písm. c) ve spojení s § 10 odst. 5 zakládá nárok na přiložení, byl-li doručen — jde o samostatné právo nezávislé na výsledku prověření námitek.
+- *Slabé místo:* obec nemá nárok na výměnu kontrolora ani na „nový přezkum" mimo režim podjatosti (§ 9 KŘ); přeceňování procesních práv může vést ke zmeškání skutečných opravných prostředků.
+
+#### H. Praktický závěr
+
+Paragraf 7 je katalogem procesních práv obce zrcadlícím povinnosti kontrolora dle § 6. Klíčové je právo na stejnopisy návrhu i konečné zprávy a právo na přiložení vlastního stanoviska. Proti zprávě samotné odvolání ani žaloba nepřísluší — bránit se lze opatřením k nápravě a až proti navazujícímu rozhodnutí o odvodu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajistit obci seznámení se zápisy, návrhem i konečnou zprávou a předání stejnopisů.
+- [ ] Stanovisko doručit kontrolorovi pověřenému řízením a výslovně požádat o jeho přiložení.
+- [ ] Nepokoušet se o „odvolání proti zprávě"; opravné prostředky směřovat proti navazujícímu rozhodnutí (o odvodu/pokutě).
+- [ ] Hlídat lhůty pro odvolání dle DŘ a případnou žalobu dle s. ř. s.
+
+**Typicky rozhodné důkazy / podklady:** návrh a konečná zpráva, písemné stanovisko obce a doklad o jeho doručení kontrolorovi, usnesení o projednání závěrečného účtu, případné rozhodnutí o odvodu.
+
 ---
 
 ### § 9 — Součinnost zřízených právnických osob
@@ -503,6 +756,42 @@ Důvod: PO **nemá oddělené hmotněprávní postavení** v majetkové sféře 
 #### Procesní podmínky součinnosti
 
 Součinnostní povinnost PO je **přímo zákonná**; neuložení součinnosti by mohlo vést k odpovědnosti vedení PO (porušení péče řádného hospodáře). Procesně se postupuje podle KŘ — kontrolor identifikuje sebe, předmět kontroly a vyzve k předložení dokladů; PO je povinna doklady **bezodkladně předložit** a poskytnout vysvětlení.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec zřídila příspěvkovou organizaci (základní školu) a založila s. r. o. provozující technické služby (100% obecní vlastnictví). Kontrolor v rámci přezkumu obce požaduje od školy kompletní účetnictví, inventarizaci majetku a vyúčtování provozního příspěvku, a od s. r. o. veškeré účetnictví a smlouvy. Ředitel s. r. o. namítá, že obchodní společnost není ÚSC a nemá povinnost cokoli předkládat. Účastníci: obec, příspěvková organizace, obecní s. r. o., kontrolor. Důkazy: zřizovací listina PO, zakladatelská listina s. r. o., účetní výkazy obou subjektů, smlouvy mezi obcí a subjekty, doklady o příspěvcích a vkladech.
+
+**2. Právní otázka.** V jakém rozsahu jsou příspěvková organizace a obecní obchodní společnost povinny poskytnout součinnost při přezkumu hospodaření zřizovatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 (součinnost zřízených/založených PO; u příspěvkové organizace navíc kontrola hospodaření, nakládání s majetkem a s příspěvky).
+- *Související ustanovení téhož zákona:* § 2 odst. 2 písm. a) (majetek ÚSC); § 14 odst. 1 písm. d) (přestupek za neposkytnutí součinnosti auditorovi); § 6 (procesní rámec).
+- *Související předpisy:* § 27 odst. 2 zákona č. 250/2000 Sb. (majetek příspěvkové organizace je majetkem zřizovatele, PO s ním jen hospodaří); § 159 a § 51 zákona č. 90/2012 Sb., o obchodních korporacích (péče řádného hospodáře jednatele); kontrolní řád (procesní rámec).
+- *Judikatura:* obecně uznávaný závěr, že kontrolní oprávnění vůči obchodní společnosti ve veřejném vlastnictví se odvíjí od vztahu společnosti k veřejnému zřizovateli, nikoli od samostatného přezkumu společnosti jako takové.
+
+**4. Subsumpce.** Příspěvková organizace: naplněn znak „PO zřízená ÚSC" → široký rozsah (hospodaření, majetek, příspěvky), neboť její majetek je majetkem zřizovatele (§ 27 odst. 2 RP-ÚR). Obchodní společnost: naplněn znak „PO založená ÚSC" → povinnost součinnosti, ale jen ve vztahu k ÚSC (smlouvy, fakturace, vklady, dividendy); plný přezkum jejího vlastního hospodaření § 9 nezakládá, protože s. r. o. je samostatným vlastníkem svého majetku.
+
+**5. Řešení.** Škola je povinna předložit účetnictví, inventarizaci i vyúčtování příspěvku v plném rozsahu. S. r. o. je povinna poskytnout součinnost ohledně vztahů k obci (smlouvy, fakturace, vklady, výplaty podílů), nikoli však „celé" účetnictví jako samostatný předmět přezkumu. Námitka jednatele je tedy částečně lichá (součinnost ano), částečně důvodná (plný přezkum hospodaření s. r. o. ne). Riziko: odmítnutí součinnosti může u vedení PO/s. r. o. založit porušení péče řádného hospodáře.
+
+**6. Varianty.** (a) Kdyby škola odmítla předložit doklady a tím znemožnila přezkum, šlo by o nevytvoření podmínek pro přezkum (§ 10 odst. 3 písm. c) bod 6) na straně obce. (b) Kdyby přezkum vykonával auditor a s. r. o. mu odmítla relevantní podklady, mohlo by jít o přestupek obce dle § 14 odst. 1 písm. d).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „obchodní společnost není ÚSC, žádnou součinnost nedluží".* Neutralizace: § 9 zakládá součinnostní povinnost i pro založené PO (vč. obchodních společností) ve vztahu k zřizovateli; samostatnost společnosti omezuje rozsah, nikoli existenci povinnosti.
+- *Protiargument „u příspěvkové organizace jde o jiný subjekt, nelze kontrolovat její majetek".* Neutralizace: majetek PO je majetkem zřizovatele (§ 27 odst. 2 RP-ÚR), proto je široký přezkum u PO výslovně dán.
+- *Slabé místo:* rozsah součinnosti u obchodní společnosti je neostrý (kde končí „vztah k obci" a začíná „vlastní hospodaření"); spory řešit odkazem na konkrétní smluvní/majetkovou vazbu k obci.
+
+#### H. Praktický závěr
+
+Paragraf 9 rozšiřuje přezkum mimo samotnou obec: příspěvkové organizace podléhají širokému přezkumu (hospodaření, majetek, příspěvky), obecní obchodní společnosti pouze součinnosti ve vztahu k zřizovateli. Rozhodující je odlišit „majetek zřizovatele spravovaný PO" od „vlastního majetku obchodní společnosti".
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat všechny PO zřízené i založené obcí (příspěvkové organizace, s. r. o., a. s., ústavy, školské PO).
+- [ ] U příspěvkových organizací zajistit doklady o hospodaření, majetku a příspěvcích.
+- [ ] U obchodních společností vyžádat jen podklady o vztazích k obci (smlouvy, fakturace, vklady, podíly).
+- [ ] Při odmítnutí součinnosti zvážit dopad do závěru zprávy (nevytvoření podmínek) či přestupku (u auditora).
+
+**Typicky rozhodné důkazy / podklady:** zřizovací a zakladatelské listiny, účetní výkazy PO, inventarizační doklady, vyúčtování provozních příspěvků, smlouvy mezi obcí a jejími PO, doklady o vkladech a výplatách podílů.
 
 ---
 
@@ -648,6 +937,43 @@ Pokud ÚSC doručil písemné stanovisko k návrhu zprávy podle § 7 písm. c),
 
 **Řádné a včasné** vypracování zprávy je **osobní povinností** kontrolora pověřeného řízením přezkumu. Z tohoto plyne i osobní právní odpovědnost (pracovněprávní i případně trestněprávní — § 329 TZ zneužití pravomoci úřední osoby) za vady zprávy.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec v roce 2025 přijala nový úvěr, jímž její celkový dluh dosáhl 64 % průměru příjmů za poslední 4 rozpočtové roky. Kontrolor dále zjistil neúplné vedení účetnictví (chybějící inventarizace u části majetku) a vysoký podíl dlouhodobých nedobytných pohledávek. Sestavuje zprávu a řeší, co vše musí závěr obsahovat. Účastníci: obec, kontrolor pověřený řízením, krajský úřad. Důkazy: účetní výkazy (rozvaha, výkaz Fin 2-12), výpočet dluhu a průměru příjmů za 4 roky, inventarizační dokumentace, evidence pohledávek.
+
+**2. Právní otázka.** Jaké povinné výroky a jakou klasifikaci závěru musí zpráva obsahovat při překročení dluhového pravidla a při zjištění neúplného účetnictví?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10 odst. 1 (zpráva nahrazuje protokol o kontrole), odst. 2 (náležitosti), odst. 3 (třístupňový závěr; písm. c) bod 2 — neúplnost/nesprávnost/neprůkaznost účetnictví), odst. 4 (povinné výroky: rizika, podíly pohledávek/závazků a zastaveného majetku, výrok o dluhovém pravidle 60 %), odst. 5 (stanovisko jako příloha), odst. 6 (odpovědnost kontrolora).
+- *Související ustanovení téhož zákona:* § 2 odst. 2 písm. i) (ověření poměru dluhu k příjmům); § 3 (hlediska); § 13 (nápravná opatření).
+- *Související předpisy:* § 17 zákona č. 23/2017 Sb. (povinnost snížit dluh o min. 5 %, jinak snížení podílu ze sdílených daní); zákon č. 563/1991 Sb. a vyhláška č. 410/2009 Sb. (účetnictví); § 12 zákona č. 255/2012 Sb. (náležitosti protokolu o kontrole).
+- *Judikatura:* obecně uznávaný závěr, že neúplné či neprůkazné účetnictví znemožňuje ověření hospodaření a je samostatným závažným nedostatkem bez ohledu na to, zda vznikla konkrétní škoda.
+
+**4. Subsumpce.** Dluh 64 % > 60 % → naplněn znak překročení dluhového pravidla → ve výroku dle odst. 4 písm. c) se uvede, o kolik (4 procentní body) dluh průměr příjmů překročil. Neúplné účetnictví naplňuje znak odst. 3 písm. c) bodu 2 → závěr „závažné nedostatky". Současně se uvedou povinné výroky o rizicích (odst. 4 písm. a — nedobytné pohledávky, dluhová expozice) a podíly pohledávek/závazků a zastaveného majetku (písm. b).
+
+**5. Řešení.** Závěr zprávy bude klasifikován dle odst. 3 písm. c) (závažné nedostatky — účetnictví). Zpráva povinně obsahuje: upozornění na rizika, kvantitativní podíly a výrok o překročení dluhového pravidla o 4 p. b. Důsledek dluhu: obec je povinna jej v dalším roce snížit alespoň o 5 %, jinak MF sníží podíl ze sdílených daní (§ 17 zákona č. 23/2017 Sb.). Obec musí přijmout opatření k nápravě (§ 13). Riziko: opomenutí povinného výroku činí zprávu neúplnou a zakládá odpovědnost kontrolora (odst. 6).
+
+**6. Varianty.** (a) Kdyby dluh činil 58 %, výrok by zněl, že dluh nepřekročil 60 % průměru příjmů; účetní nedostatek by však i tak vedl k závěru „závažné nedostatky". (b) Kdyby šlo jen o drobnou účetní chybu u jediné operace bez vlivu na průkaznost, závěr by mohl být „nezávažné nedostatky" (odst. 3 písm. b) a žádný odvod by nenásledoval.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „překročení dluhového pravidla je jen informativní výrok, nemá sankci".* Neutralizace: výrok je sice deklaratorní, navazuje však přímo na § 17 zákona č. 23/2017 Sb. — sankcí je snížení podílu ze sdílených daní při nesnížení dluhu.
+- *Protiargument „účetní nedostatek je formalita, hospodaření bylo věcně v pořádku".* Neutralizace: neúplnost/neprůkaznost účetnictví je výslovně závažným nedostatkem (odst. 3 písm. c) bod 2), protože brání ověření hospodaření jako celku.
+- *Slabé místo:* zařazení mezi „nezávažný" a „závažný" účetní nedostatek vyžaduje úsudek o vlivu na průkaznost; hraniční případy je třeba pečlivě odůvodnit, aby zpráva obstála.
+
+#### H. Praktický závěr
+
+Zpráva je centrálním výstupem zákona; nahrazuje protokol o kontrole a má závazné náležitosti. Závěr je třístupňový (bez závad / nezávažné / závažné v šesti taxativních kategoriích) a vždy obsahuje povinné výroky o rizicích, podílech pohledávek/závazků a zastaveného majetku a o dluhovém pravidle 60 %.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že zpráva obsahuje náležitosti protokolu dle KŘ i specifické náležitosti ZPH (odst. 2).
+- [ ] Zařadit závěr do správného stupně (bez závad / nezávažné / závažné — který ze šesti bodů odst. 3 písm. c).
+- [ ] Doplnit všechny povinné výroky (rizika; podíly pohledávek/závazků a zastaveného majetku; výrok o dluhu vs. 60 %).
+- [ ] Při doručeném stanovisku obce je přiložit (odst. 5).
+- [ ] Při překročení dluhového pravidla upozornit na povinnost snížení a hrozbu krácení sdílených daní.
+
+**Typicky rozhodné důkazy / podklady:** účetní výkazy a rozvaha, výpočet dluhu a průměru příjmů za 4 roky, inventarizační dokumentace, evidence pohledávek a závazků, přehled zástav, stanovisko obce.
+
 ---
 
 ### § 11 — Projednání zprávy o výsledku přezkoumání hospodaření a její předání
@@ -684,6 +1010,42 @@ Statutární adresát je následně **povinen**:
 - **zajistit přijetí opatření** k nápravě podle § 13 ZPH a podat o nich informaci přezkoumávajícímu orgánu.
 
 Pokud statutární adresát zprávu zastupitelstvu nepředloží, jde o **závažné porušení jeho povinností** (může vést k odvolání z funkce a u nedbalostního pochybení i k trestněprávní odpovědnosti).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Kontrolor pověřený řízením projednal konečnou zprávu se starostou obce a předal mu stejnopis. Zpráva obsahovala závažné nedostatky (porušení rozpočtové kázně). Starosta, kterému se závěr politicky nehodí, zprávu nezařadí na program zastupitelstva a závěrečný účet předloží bez ní. Zastupitelstvo závěrečný účet schválí, aniž by zprávu vidělo. Účastníci: obec, starosta (statutární adresát), zastupitelstvo, krajský úřad. Důkazy: konečná zpráva a doklad o jejím předání starostovi, pozvánka a zápis ze zasedání zastupitelstva, zveřejněný návrh závěrečného účtu na úřední desce.
+
+**2. Právní otázka.** Je projednání závěrečného účtu platné, jestliže starosta v rozporu se svou povinností nepředložil zastupitelstvu zprávu o výsledku přezkoumání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11 (projednání zprávy se statutárním adresátem — u obce starostou — a předání stejnopisu).
+- *Související ustanovení téhož zákona:* § 6 odst. 1 písm. f) (projednání konečného znění); § 13 (povinnost přijmout opatření k nápravě); § 10 (obsah zprávy).
+- *Související předpisy:* § 17 odst. 6 a 7 zákona č. 250/2000 Sb. (zveřejnění závěrečného účtu se zprávou na úřední desce min. 15 dnů a projednání zastupitelstvem); § 103 a § 84 zákona č. 128/2000 Sb. (postavení starosty a pravomoc zastupitelstva).
+- *Judikatura:* obecně uznávaný závěr dozorové praxe Ministerstva vnitra, že schválení závěrečného účtu bez současného předložení zprávy o přezkumu trpí vadou, neboť zpráva je obligatorní součástí podkladu pro projednání.
+
+**4. Subsumpce.** Kontrolor splnil § 11 (projednání se starostou + předání stejnopisu). Povinnost předložit zprávu zastupitelstvu spolu se závěrečným účtem (§ 17 odst. 6 a 7 RP-ÚR) je na straně starosty; její nesplnění je porušením jeho povinností. Znak „projednání závěrečného účtu se zprávou" naplněn nebyl → projednání trpí vadou.
+
+**5. Řešení.** Schválení závěrečného účtu bez zprávy je vadné; zastupitelstvo by mělo projednání zopakovat s řádně předloženou zprávou. Starosta porušil své povinnosti (riziko odvolání z funkce, případně odpovědnost za škodu, u nedbalosti i trestněprávní rozměr). Krajský úřad v rámci dozoru nad samostatnou působností (Ministerstvo vnitra / KÚ) může na vadu upozornit. Riziko: opožděná náprava může zpozdit zveřejnění závěrečného účtu a vyvolat další procesní vady.
+
+**6. Varianty.** (a) U kraje by povinnost stíhala hejtmana, u hl. m. Prahy primátora hl. m. Prahy, u DSO osobu určenou stanovami — adresát se mění dle typu ÚSC, podstata povinnosti zůstává. (b) Kdyby starosta zprávu předložil, ale zastupitelstvo i přes závažné nedostatky nepřijalo opatření k nápravě, šlo by o přestupek dle § 14 odst. 1 písm. b).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zastupitelstvo je svrchované a může schválit závěrečný účet, jak uzná".* Neutralizace: svrchovanost nezbavuje povinnosti projednat závěrečný účet se zprávou (§ 17 RP-ÚR); bez ní je usnesení zatíženo vadou.
+- *Protiargument „kontrolor splnil své, další je věcí obce".* To je pravda jen zčásti — § 11 je splněn předáním starostovi; vada vzniká až navazujícím pochybením starosty, které však ZPH/RP-ÚR předvídá a sankcionuje.
+- *Slabé místo:* ZPH sám výslovně neukládá starostovi povinnost předložení zastupitelstvu — ta plyne z RP-ÚR; argumentaci je proto třeba opřít o § 17 RP-ÚR, nikoli jen o § 11 ZPH.
+
+#### H. Praktický závěr
+
+Paragraf 11 určuje, že konečnou zprávu kontrolor projedná s nejvyšším představitelem ÚSC (starosta/primátor/hejtman/osoba dle stanov DSO) a předá mu stejnopis. Ten je pak povinen zprávu předložit zastupitelstvu spolu se závěrečným účtem a zajistit nápravná opatření.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Projednat konečnou zprávu se správným statutárním adresátem dle typu ÚSC a předat stejnopis.
+- [ ] Zajistit zařazení zprávy na program zastupitelstva spolu se závěrečným účtem.
+- [ ] Zveřejnit návrh závěrečného účtu se zprávou na úřední desce min. 15 dnů (§ 17 odst. 6 RP-ÚR).
+- [ ] Po projednání přijmout opatření k nápravě a informovat přezkoumávající orgán (§ 13).
+
+**Typicky rozhodné důkazy / podklady:** konečná zpráva a doklad o jejím předání statutárnímu adresátovi, pozvánka a zápis ze zasedání zastupitelstva, doklad o zveřejnění závěrečného účtu se zprávou.
 
 ---
 
@@ -751,6 +1113,42 @@ Z tohoto plyne **klíčový rozdíl** oproti orgánovému přezkumu:
 | Náklady | nese stát / kraj | nese ÚSC |
 | Dozor | hierarchický (MF, KÚ) | MF (§ 20 ZPH) + KAČR |
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Statutární město zvolilo přezkum auditorem. Auditorská smlouva v zájmu nižší ceny vynechala ověření dluhového pravidla (§ 2 odst. 2 písm. i)) a výrok dle § 10 odst. 4 písm. c). Auditor zprávu vyhotovil, město ji projednalo v zastupitelstvu, ale stejnopis krajskému úřadu nepředalo. Účastníci: město (zadavatel), auditor (KAČR), krajský úřad, Ministerstvo financí. Důkazy: auditorská smlouva, auditorská zpráva o výsledku přezkoumání, usnesení zastupitelstva, doklad o (ne)předání zprávy KÚ.
+
+**2. Právní otázka.** Může auditorská smlouva omezit obsah zprávy pod minimum ZPH a jaký je následek nepředání auditorské zprávy přezkoumávajícímu orgánu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12 odst. 1 (auditor vázán § 2, 3, 10 a § 17 odst. 2), odst. 2 (projednání dle zákona o auditorech; předání stejnopisu KÚ do 15 dnů po projednání v orgánech ÚSC), odst. 3 (postup dle zákona o auditorech).
+- *Související ustanovení téhož zákona:* § 4 odst. 7 (povinné náležitosti auditorské smlouvy: předmět, hlediska, obsah zprávy, lhůta); § 10 odst. 4 (povinné výroky); § 14 odst. 1 písm. a) (přestupek za nepředání); § 20 (dozor MF).
+- *Související předpisy:* zákon č. 93/2009 Sb., o auditorech (nezávislost, mlčenlivost, kárná pravomoc KAČR, ISA standardy); zákon č. 340/2015 Sb. (registr smluv).
+- *Judikatura:* obecně uznávaný závěr, že kogentní zákonné minimum obsahu odborného výstupu nelze smluvně vyloučit; ujednání odporující kogentní normě je v této části neplatné.
+
+**4. Subsumpce.** Smluvní vynechání dluhového výroku odporuje § 12 odst. 1 ve spojení s § 2 odst. 2 písm. i) a § 10 odst. 4 písm. c) — jde o kogentní minimum, které smlouva nesmí podkročit; ujednání je v této části neúčinné a auditor je povinen výrok do zprávy zahrnout. Nepředání stejnopisu KÚ do 15 dnů po projednání naplňuje skutkovou podstatu přestupku dle § 14 odst. 1 písm. a).
+
+**5. Řešení.** Auditor musí zprávu doplnit o ověření dluhového pravidla a příslušný výrok — bez toho je zpráva neúplná a může být předmětem kárného postupu KAČR a dozoru MF (§ 20). Město je povinno předat stejnopis zprávy KÚ do 15 dnů po projednání v orgánech města; nepředání = přestupek s pokutou až 50 000 Kč. Procesně: doplnit zprávu, předat stejnopis KÚ, smlouvu uvést do souladu se § 4 odst. 7. Riziko: město nese odpovědnost za přestupek, auditor profesní odpovědnost.
+
+**6. Varianty.** (a) Kdyby smlouva naopak rozšířila obsah nad rámec ZPH (např. o benchmark), bylo by to přípustné — nad zákonné minimum lze přidávat, jen ne ubírat. (b) Kdyby město zprávu předalo KÚ včas, ale opožděně přijalo nápravná opatření, šlo by o přestupek dle § 14 odst. 1 písm. b), nikoli písm. a).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „auditorská smlouva je soukromoprávní, strany si mohou sjednat cokoli".* Neutralizace: § 12 odst. 1 a § 4 odst. 7 stanoví kogentní minimum obsahu zprávy; smluvní volnost končí u zákonem vynucených náležitostí.
+- *Protiargument „nepředání KÚ je marginální, město zprávu má".* Neutralizace: předání KÚ slouží dozoru MF (§ 20) a statistice; jeho nesplnění je výslovně přestupkem dle § 14 odst. 1 písm. a).
+- *Slabé místo:* odkaz § 12 odst. 1 na „§ 17 odst. 2" míří na reziduální matérii po derogaci §§ 16–19 (novela č. 183/2017 Sb.); při argumentaci je třeba pracovat s aktuálním zněním zákona.
+
+#### H. Praktický závěr
+
+Paragraf 12 podřizuje auditorský přezkum kogentnímu minimu ZPH (§ 2, 3, 10) a procesně jej zařazuje pod zákon o auditorech. Smlouva nesmí obsah zprávy podkročit; auditorskou zprávu je nutné předat přezkoumávajícímu orgánu do 15 dnů po projednání v orgánech ÚSC, jinak hrozí přestupek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] V auditorské smlouvě sjednat předmět (§ 2), hlediska (§ 3), obsah zprávy (§ 10) a lhůtu předání (§ 4 odst. 7).
+- [ ] Ověřit, že auditorská zpráva obsahuje všechny povinné výroky vč. dluhového pravidla.
+- [ ] Předat stejnopis auditorské zprávy KÚ/MF/MHMP do 15 dnů po projednání v orgánech ÚSC.
+- [ ] Počítat s dozorem MF (§ 20) a kárnou pravomocí KAČR nad auditorem.
+
+**Typicky rozhodné důkazy / podklady:** auditorská smlouva, auditorská zpráva o výsledku přezkoumání, usnesení o projednání v orgánech ÚSC, doklad o předání zprávy přezkoumávajícímu orgánu, registr smluv.
+
 ---
 
 ## Nápravná opatření (§ 13)
@@ -814,6 +1212,42 @@ Lhůta začíná **dnem projednání zprávy v orgánech ÚSC** — tj. zpravidl
 Přezkoumávající orgán je **oprávněn** (nikoli povinen) kontrolovat **plnění** přijatých opatření. Při této kontrole se neřídí ZPH, ale **kontrolním řádem (255/2012 Sb.)** — tj. obecným procesním rámcem pro kontrolní činnost. Postupuje se jako u jakékoli jiné veřejnosprávní kontroly (oznámení, kontrola na místě, protokol o kontrole, námitky podle § 13 KŘ atd.).
 
 Kontrola plnění typicky probíhá **u větších nálezů** (porušení rozpočtové kázně, závažné účetní závady) a slouží jako **vstup pro následující přezkum** (pokud nebylo opatření splněno, jde o **„neodstranění nedostatku"** podle § 10 odst. 3 písm. c) bodu 5 — recidivní závada).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Ve zprávě za rok 2025 byly zjištěny nedostatky (nesprávné účtování, chybějící inventarizace). Zastupitelstvo projednalo závěrečný účet se zprávou dne 20. 6. 2026. Obec však do 5. 7. 2026 nepřijala žádné usnesení o opatřeních k nápravě, nepodala přezkoumávajícímu orgánu žádnou písemnou informaci a v žádném dokumentu neuvedla lhůtu pro zprávu o plnění. Účastníci: obec (zastupitelstvo, starosta), krajský úřad. Důkazy: zpráva o výsledku přezkoumání, zápis a usnesení ze zasedání zastupitelstva 20. 6. 2026, evidence doručené pošty KÚ, případná informace obce o přijetí opatření.
+
+**2. Právní otázka.** Jaké povinnosti vznikly obci po projednání zprávy se závěrečným účtem a které z nich byly porušeny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 13 odst. 1 písm. a) (bezodkladná náprava nedostatků ze zápisu z dílčího přezkoumání + informace při konečném přezkumu), písm. b) (do 15 dnů po projednání zprávy se závěrečným účtem přijmout opatření a podat písemnou informaci), odst. 2 (uvést lhůtu pro zprávu o plnění a v ní zprávu zaslat), odst. 3 (kontrola plnění dle KŘ).
+- *Související ustanovení téhož zákona:* § 14 odst. 1 písm. b) a c) (přestupky za nepřijetí opatření / neinformování / neuvedení lhůty); § 10 odst. 3 písm. c) bod 5 (neodstranění nedostatků jako závažný nedostatek v dalším roce).
+- *Související předpisy:* § 17 odst. 7 zákona č. 250/2000 Sb. (projednání závěrečného účtu); kontrolní řád (kontrola plnění opatření).
+- *Judikatura:* obecně uznávaný závěr, že povinnost přijmout opatření k nápravě je splněna teprve doložitelným rozhodnutím orgánu obce a jeho oznámením kontrolnímu orgánu, nikoli pouhým faktickým odstraněním závady bez informace.
+
+**4. Subsumpce.** Lhůta 15 dnů běží od projednání zprávy se závěrečným účtem (20. 6. 2026) → konec 5. 7. 2026. Obec do té doby nepřijala opatření (porušení písm. b bodu 1), nepodala písemnou informaci (porušení písm. b bodu 2) a neuvedla lhůtu pro zprávu o plnění (porušení odst. 2). Naplněny jsou skutkové podstaty § 14 odst. 1 písm. b) i c).
+
+**5. Řešení.** Obec by měla bezodkladně přijmout usnesení o opatřeních, podat KÚ písemnou informaci a uvést lhůtu pro zprávu o plnění, a v ní pak zprávu zaslat. KÚ je oprávněn kontrolovat plnění opatření dle KŘ a může zahájit přestupkové řízení (§ 14). Riziko: pokud obec nedostatky neodstraní, projeví se v příštím přezkumu jako „neodstranění nedostatku" (§ 10 odst. 3 písm. c) bod 5 — recidiva) a jako závažný nedostatek zatíží i další zprávu.
+
+**6. Varianty.** (a) Kdyby obec opatření přijala, jen by opomněla uvést lhůtu pro zprávu o plnění, šlo by „jen" o přestupek dle § 14 odst. 1 písm. c). (b) Kdyby šlo o nedostatky ze zápisu z dílčího přezkoumání, povinnost nápravy by byla „bezodkladná" (písm. a) s informací až při konečném přezkumu, nikoli ve 15denní lhůtě dle písm. b).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „obec chyby fakticky odstranila, formality nejsou podstatné".* Neutralizace: zákon rozlišuje přijetí opatření, jeho plnění a informaci o něm; bez doložené informace a lhůty není povinnost splněna a hrozí přestupek.
+- *Protiargument „15denní lhůta je příliš krátká na realizaci nápravy".* Neutralizace: ve lhůtě se vyžaduje jen přijetí opatření a informace o něm, nikoli dokončené plnění; faktická realizace probíhá v autonomně stanovené lhůtě dle odst. 2.
+- *Slabé místo:* přiměřenost lhůty pro zprávu o plnění (odst. 2) si obec určuje sama; nepřiměřeně dlouhou lhůtu může KÚ rozporovat až neformálně či při dalším přezkumu, nikoli přímou sankcí.
+
+#### H. Praktický závěr
+
+Paragraf 13 zavádí trojstupňový nápravný režim: bezodkladná náprava nedostatků z dílčího přezkoumání; do 15 dnů po projednání zprávy se závěrečným účtem přijetí opatření, písemná informace a uvedení lhůty pro zprávu o plnění; a následně zaslání zprávy o plnění. KÚ smí plnění kontrolovat dle KŘ.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nedostatky z dílčího přezkoumání odstranit bezodkladně a informovat o tom při konečném přezkumu.
+- [ ] Do 15 dnů po projednání zprávy se závěrečným účtem přijmout usnesením opatření k nápravě.
+- [ ] V téže lhůtě podat přezkoumávajícímu orgánu písemnou informaci a uvést lhůtu pro zprávu o plnění.
+- [ ] V uvedené lhůtě zaslat zprávu o plnění; počítat s kontrolou plnění dle KŘ.
+
+**Typicky rozhodné důkazy / podklady:** zpráva o výsledku přezkoumání, usnesení zastupitelstva o opatřeních k nápravě, písemná informace zaslaná KÚ, zpráva o plnění opatření, doklady o doručení.
 
 ---
 
@@ -892,6 +1326,42 @@ Subsidiárně se použije obecná úprava — zejména:
 | **Procesní pochybení kolem zprávy** | pokuta do 50 000 Kč (§ 14 ZPH) |
 | **Vady účetnictví** | pokuta podle § 37 ZÚč |
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec zvolila přezkum auditorem. Auditor obec opakovaně písemně vyzval k předložení smluv o dílo a předávacích protokolů ke stavební investici; obec doklady bezdůvodně nepředložila a auditorovi přístup k dokumentaci znemožnila. Zprávu auditor přesto sestavil s výhradou. Krajský úřad zahájí přestupkové řízení. Účastníci: obec (PO veřejného práva), auditor, krajský úřad (správní orgán projednávající přestupek). Důkazy: písemné výzvy auditora a doklady o jejich doručení, evidence předané/nepředané dokumentace, auditorská zpráva, usnesení o zahájení přestupkového řízení.
+
+**2. Právní otázka.** Dopustila se obec přestupku tím, že auditorovi neposkytla na žádost vyžádané doklady, a jaká pokuta jí hrozí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14 odst. 1 písm. d) (neposkytnutí dokladů, písemností, informací nebo vysvětlení auditorovi dle KŘ), odst. 2 (pokuta do 50 000 Kč); pro úplnost písm. a)–c) (další skutkové podstaty).
+- *Související ustanovení téhož zákona:* § 12 (auditorský přezkum); § 9 (součinnost); § 15 (příslušnost k projednání a vymáhání pokut).
+- *Související předpisy:* § 5 a § 14 zákona č. 250/2016 Sb., o odpovědnosti za přestupky (odpovědnost PO i ÚSC, liberace); § 8 a násl. zákona č. 255/2012 Sb. (oprávnění kontrolovat a vyžadovat součinnost); § 30–33 zákona č. 250/2016 Sb. (promlčecí doba — zde 1 rok).
+- *Judikatura:* obecně uznávaný závěr, že územní samosprávný celek může být pachatelem přestupku (§ 5 zákona č. 250/2016 Sb.) a může se odpovědnosti zprostit jen prokázáním vynaložení veškerého úsilí, které lze požadovat.
+
+**4. Subsumpce.** Auditor je dle § 14 odst. 1 písm. d) postaven na roveň kontrolnímu orgánu co do nároku na součinnost; obec doklady bezdůvodně nepředložila → naplněn znak „neposkytne veškeré vyžadované doklady podle kontrolního řádu". Subjektem je obec jako PO. Liberace (vynaložení veškerého úsilí) se nenabízí, šlo-li o bezdůvodné odmítnutí. Skutková podstata je naplněna; sankcí je pokuta do 50 000 Kč.
+
+**5. Řešení.** Krajský úřad jako přezkoumávající orgán (§ 15 odst. 1) projedná přestupek a může uložit pokutu do 50 000 Kč; pokutu sám vybere a vymáhá (§ 15 odst. 2, mimo MF). Obec by měla doklady dodatečně předložit a v řízení případně tvrdit liberaci. Riziko dvojkolejnosti: vedle procesní pokuty dle § 14 hrozí samostatně odvod dle § 22 RP-ÚR (hmotné porušení) a pokuta dle § 37 ZÚč (vady účetnictví) — jde o odlišné tituly, které se nevylučují.
+
+**6. Varianty.** (a) Kdyby šlo o orgánový přezkum (krajský úřad místo auditora) a obec by neposkytla součinnost, šlo by spíše o „nevytvoření podmínek pro přezkum" dle § 10 odst. 3 písm. c) bodu 6 (a přestupek dle § 15 KŘ), nikoli o § 14 odst. 1 písm. d) ZPH. (b) Kdyby obec doklady objektivně mít nemohla (zničeny živelní událostí) a prokázala veškeré úsilí, mohla by se odpovědnosti zprostit liberací.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „auditor je smluvní partner, KŘ na něj nedopadá, součinnost vynutit nelze".* Neutralizace: § 14 odst. 1 písm. d) vědomě rozšiřuje rámec KŘ i na auditorský přezkum — obec má vůči auditorovi tytéž součinnostní nároky jako vůči kontrolorovi.
+- *Protiargument „pokuta jde z obecního rozpočtu, trestá se obec sama, je to bezúčelné".* Neutralizace: i tak jde o relevantní sankci s reputačním a dozorovým dopadem; bezúčelnost není liberačním důvodem.
+- *Slabé místo:* horní hranice 50 000 Kč je u velkých měst nízká; sankce má spíše signální než ekonomický účinek a de lege ferenda se navrhuje procentní pokuta dle příjmů.
+
+#### H. Praktický závěr
+
+Paragraf 14 trestá procesní pochybení kolem zprávy a součinnosti (nepředání auditorské zprávy, nepřijetí/neoznámení opatření, neuvedení lhůty, neposkytnutí součinnosti auditorovi) pokutou do 50 000 Kč. Netrestá hmotné porušení rozpočtové kázně — to řeší odvod dle § 22 RP-ÚR. Subjektem je územní celek jako právnická osoba.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat, která ze čtyř skutkových podstat (písm. a–d) je naplněna.
+- [ ] U auditorského přezkumu poskytnout auditorovi veškerou součinnost jako kontrolnímu orgánu dle KŘ.
+- [ ] Odlišit pokutu dle § 14 ZPH od odvodu dle § 22 RP-ÚR a od pokuty dle § 37 ZÚč (různé tituly).
+- [ ] V řízení zvážit liberaci (vynaložení veškerého úsilí) a běh roční promlčecí doby.
+
+**Typicky rozhodné důkazy / podklady:** výzvy auditora/kontrolora a doklady o doručení, evidence předané dokumentace, auditorská/orgánová zpráva, usnesení o zahájení přestupkového řízení, doklady o (ne)přijetí opatření a (ne)předání zprávy KÚ.
+
 ---
 
 ### § 15 — Společná ustanovení k přestupkům
@@ -929,6 +1399,42 @@ Pokuty uložené:
 - **MF / finanční správou**: příjem **státního rozpočtu**.
 
 Vyplývá to z obecných pravidel rozpočtových: pokuta jde do rozpočtu orgánu, který ji uložil (ledaže zvláštní předpis stanoví jinak).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec s rozšířenou působností (ORP) se domnívá, že přestupek obce podle ZPH (nepředání auditorské zprávy) by měl projednávat obecní úřad ORP, který je obecně příslušný pro přestupky. Krajský úřad však sám zahájí přestupkové řízení a později uloženou pokutu vybírá. U sousední obce, jejíž přezkum vykonalo Ministerstvo financí (šlo o kraj), nastává otázka, kdo pokutu vybere. Účastníci: obec/kraj, krajský úřad, obecní úřad ORP, Ministerstvo financí, finanční úřad. Důkazy: usnesení o zahájení přestupkového řízení, rozhodnutí o pokutě, doklad o tom, který orgán vykonal přezkum.
+
+**2. Právní otázka.** Který orgán je příslušný projednat přestupek podle ZPH a který pokutu vybírá a vymáhá, vykonalo-li přezkum Ministerstvo financí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15 odst. 1 (přestupky projednává přezkoumávající orgán), odst. 2 (pokuty vybírá a vymáhá orgán, který je uložil, s výjimkou Ministerstva financí).
+- *Související ustanovení téhož zákona:* § 14 (skutkové podstaty a pokuta do 50 000 Kč); § 5 odst. 1 a 3 (vymezení „přezkoumávajícího orgánu").
+- *Související předpisy:* § 60 a § 62 zákona č. 250/2016 Sb. a § 10 zákona č. 500/2004 Sb. (věcná a místní příslušnost ve správním řízení); § 161 zákona č. 280/2009 Sb. (dělená správa — vymáhání nedoplatků finančními orgány); zákon č. 129/2000 Sb. (rozpočet kraje jako příjemce pokut).
+- *Judikatura:* obecně uznávaný závěr, že zvláštní zákon může svěřit projednání přestupku jinému orgánu než obecně příslušnému obecnímu úřadu ORP; speciální příslušnost má přednost před obecnou.
+
+**4. Subsumpce.** Přestupek projednává „přezkoumávající orgán" (§ 15 odst. 1) — u obce/DSO krajský úřad, u městské části MHMP, u kraje/hl. m. Prahy Ministerstvo financí (resp. GFŘ/FÚ). Příslušnost obecního úřadu ORP je tím vyloučena (speciální úprava). Pokutu vybírá a vymáhá orgán, který ji uložil, s výjimkou MF (§ 15 odst. 2) → uložilo-li ji MF, výběr a vymáhání přechází na finanční úřad v režimu dělené správy.
+
+**5. Řešení.** U obce je k projednání i vymáhání příslušný krajský úřad; pokuta je příjmem rozpočtu kraje. U kraje, jehož přezkum vykonalo MF, projedná přestupek MF, ale výběr a vymáhání pokuty zajistí finanční úřad (dělená správa dle § 161 DŘ); pokuta je příjmem státního rozpočtu. Námitka, že má rozhodovat ORP, je nedůvodná. Riziko: vedení řízení nepříslušným orgánem by zatížilo rozhodnutí vadou nepříslušnosti.
+
+**6. Varianty.** (a) U městské části hl. m. Prahy projedná přestupek MHMP a pokutu sám vybere (není to MF) — příjem rozpočtu hl. m. Prahy. (b) Kdyby přezkum kraje vykonal finanční úřad (nikoli přímo MF), byl by tento finanční úřad i orgánem příslušným k přestupku a sám by pokutu vybral.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „přestupky obcí řeší obecně obecní úřad ORP".* Neutralizace: § 15 odst. 1 je speciální normou svěřující projednání přezkoumávajícímu orgánu; navíc příslušnost ORP by u ÚSC vyvolávala konflikt zájmů.
+- *Protiargument „kdo uloží, ten vymáhá — tedy i MF".* Neutralizace: odst. 2 výslovně vyjímá MF; vymáhání jde na finanční úřad v dělené správě, protože MF nemá vlastní výběrový aparát.
+- *Slabé místo:* určení konkrétního „přezkoumávajícího orgánu" závisí na tom, kdo přezkum reálně vykonal (KÚ / MHMP / MF / GFŘ / FÚ); příslušnost je třeba navázat na tento fakt, nikoli paušálně na MF.
+
+#### H. Praktický závěr
+
+Paragraf 15 soustřeďuje projednání přestupků do rukou přezkoumávajícího orgánu (KÚ / MHMP / MF resp. finanční správa) a stanoví, že pokutu vybírá a vymáhá tentýž orgán s jedinou výjimkou Ministerstva financí (pak finanční úřad v dělené správě). Příjem z pokut jde do rozpočtu orgánu, který je uložil.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit, kdo přezkum vykonal — tím je dán i přezkoumávající orgán příslušný k přestupku.
+- [ ] Vyloučit obecnou příslušnost obecního úřadu ORP (speciální úprava § 15 odst. 1).
+- [ ] U pokuty uložené MF počítat s výběrem a vymáháním finančním úřadem (dělená správa).
+- [ ] Zařadit příjem z pokuty do správného rozpočtu (kraj / hl. m. Praha / stát).
+
+**Typicky rozhodné důkazy / podklady:** doklad o tom, který orgán přezkum vykonal, usnesení o zahájení přestupkového řízení, rozhodnutí o uložení pokuty, doklady o jejím vyměření a vymáhání.
 
 ---
 
@@ -977,6 +1483,42 @@ V praxi MF vybírá vzorek auditorských přezkumů (často na základě podnět
 
 ZPH **neupravuje** dozor MF nad přezkumem vykonaným krajským úřadem. To je systémově konzistentní: krajský úřad je v přezkumu **správním orgánem v přenesené působnosti** (§ 67 zákona č. 129/2000 Sb. — výkon státní správy svěřený zákonem) a podléhá obecnému **hierarchickému dozoru MF** (§ 64 a § 67 zákona č. 129/2000 Sb. obecně, § 13 zákona č. 2/1969 Sb. o ústřední státní správě).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Občan podá Ministerstvu financí podnět, že auditor u obce přehlédl porušení rozpočtové kázně u dotace a vydal „čistý" výrok. MF se rozhodne vykonat dozor. Auditor namítá, že MF nad ním nemá pravomoc, neboť je soukromou osobou pod dohledem KAČR. MF provede dozorovou kontrolu u obce a zjistí, že auditorská zpráva skutečně opomněla závažné zjištění. Účastníci: obec, auditor, Ministerstvo financí, Komora auditorů ČR. Důkazy: auditorská zpráva a spisová dokumentace přezkumu uložená u obce, doklady k dotaci, podnět občana, zpráva MF o výsledku dozoru.
+
+**2. Právní otázka.** Vůči komu a kde vykonává MF dozor nad auditorským přezkumem a jaké jsou jeho právní následky vůči auditorovi?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 20 odst. 1 (dozor přísluší MF a vykonává se u příslušného územního celku, jen u auditorské varianty), odst. 2 (předání zprávy o výsledcích dozoru KAČR k dalšímu postupu).
+- *Související ustanovení téhož zákona:* § 12 (auditorský přezkum, kogentní minimum); § 10 (obsah zprávy); § 14 odst. 1 písm. a) (předání zprávy KÚ jako podklad pro dozor).
+- *Související předpisy:* § 24 a § 24a a násl. zákona č. 93/2009 Sb. (kárné řízení a kontrola kvality KAČR); kontrolní řád (procesní rámec dozorové kontroly).
+- *Judikatura:* obecně uznávaný závěr, že veřejnoprávní dozorové oprávnění lze vykonávat vůči veřejnoprávnímu subjektu (ÚSC), zatímco vůči osobě profesní samosprávy (auditor) se uplatní mechanismus profesního dohledu, nikoli přímá sankce dozorového orgánu.
+
+**4. Subsumpce.** Dozor přísluší výlučně MF a vykonává se „u příslušného územního celku" — tedy fyzicky u obce, kde MF nahlíží do dokumentace přezkumu, nikoli u auditora. Znak „přezkum vykonal auditor" je naplněn (dozor u orgánové varianty nepřichází v úvahu). Zjištěné pochybení auditora MF nesankcionuje přímo; předá zprávu KAČR (odst. 2), která vede kárné řízení.
+
+**5. Řešení.** MF provede u obce dozorovou kontrolu dle KŘ, vyhotoví zprávu o výsledku dozoru a předá ji KAČR k dalšímu postupu (kárné řízení / kontrola kvality). Námitka auditora o nedostatku pravomoci MF je důvodná jen potud, že MF nad ním nemá přímou sankční pravomoc — dozor však probíhá u obce a navazuje na něj profesní postih KAČR. Riziko pro auditora: kárná opatření (napomenutí, pokuta, dočasný zákaz činnosti, vyškrtnutí). Riziko pro obec: zjištěné porušení rozpočtové kázně může vést k odvodu dle § 22 RP-ÚR.
+
+**6. Varianty.** (a) Kdyby přezkum vykonal krajský úřad (orgánová varianta), dozor MF dle § 20 by se neuplatnil; uplatní se obecný hierarchický dozor nad výkonem přenesené působnosti. (b) Kdyby MF chtělo dozorovat přímo auditora v jeho sídle, narazilo by na hranici pravomoci — § 20 váže dozor na ÚSC, nikoli na auditora.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „MF nemá nad auditorem žádnou pravomoc".* Neutralizace: § 20 nezakládá přímou sankční pravomoc nad auditorem, ale dozorovou pravomoc u ÚSC; profesní postih zajišťuje KAČR na základě předané zprávy.
+- *Protiargument „dozor zasahuje do auditorské nezávislosti".* Neutralizace: dozor MF ověřuje soulad výkonu přezkumu se ZPH (kvalita, úplnost) a doplňuje, nenahrazuje profesní dohled KAČR — jde o dvojvrstvý systém, nikoli o zásah do nezávislosti.
+- *Slabé místo:* MF nemůže vůči auditorovi vést přímé kárné řízení; účinnost dozoru závisí na následném postupu KAČR, který ZPH nereguluje.
+
+#### H. Praktický závěr
+
+Paragraf 20 zavádí státní dozor pouze u auditorské varianty přezkumu: vykonává jej výlučně MF, a to u příslušného územního celku (nikoli u auditora). Výsledky předává KAČR, která uplatní profesní (kárný) dohled. U orgánového přezkumu dozor dle § 20 neexistuje (uplatní se hierarchický dozor).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že přezkum vykonal auditor — jen tehdy přichází dozor MF dle § 20.
+- [ ] Dozor směřovat k dokumentaci přezkumu uložené u ÚSC, nikoli k auditorovi přímo.
+- [ ] Výsledky dozoru předat KAČR k profesnímu postupu (kárné řízení / kontrola kvality).
+- [ ] U orgánového přezkumu uplatnit hierarchický dozor MF, nikoli § 20.
+
+**Typicky rozhodné důkazy / podklady:** auditorská zpráva a spisová dokumentace přezkumu u ÚSC, podklady k přezkoumávaným operacím, podnět/podezření iniciující dozor, zpráva MF o výsledku dozoru předaná KAČR.
+
 ---
 
 ## Společná, přechodná a závěrečná ustanovení (§ 21–24)
@@ -1021,6 +1563,42 @@ Speciální pravidlo: pokud je **hl. m. Praha členem DSO**, postupuje se při p
 
 Toto pravidlo je důležité pro zachování **jednotnosti přezkumu DSO**: DSO má jednu zprávu, vykonává ji jeden orgán, který má pravomoc nad „nejvyšším" členem svazku (hl. m. Praha).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec obdržela ze státního rozpočtu (kapitola Ministerstva pro místní rozvoj) dotaci na cyklostezku. Krajský úřad v rámci přezkumu hospodaření za rok 2025 ověřil i tuto dotaci a vydal zprávu bez výhrad. O rok později u téže dotace zahájí kontrolu finanční úřad a poskytovatel (MMR) a zjistí porušení podmínek. Obec namítá překážku věci rozhodnuté — dotaci už přece přezkoumal krajský úřad. Současně je řešen DSO, jehož členem je hl. m. Praha. Účastníci: obec, krajský úřad, finanční úřad, poskytovatel (MMR), DSO s hl. m. Prahou, MF. Důkazy: rozhodnutí o poskytnutí dotace, zpráva o výsledku přezkoumání, protokol o kontrole finančního úřadu, stanovy DSO.
+
+**2. Právní otázka.** Brání přezkum hospodaření podle ZPH tomu, aby poskytovatel dotace či finanční úřad následně provedl vlastní kontrolu téže dotace? A který orgán přezkoumává DSO, jehož členem je hl. m. Praha?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 21 odst. 1 (nedotčená kontrolní pravomoc správců kapitol SR a ostatních kontrolních orgánů u příjemců dotací), odst. 2 (DSO s hl. m. Prahou se přezkoumává podle pravidel pro hl. m. Prahu).
+- *Související ustanovení téhož zákona:* § 2 odst. 1 písm. g) a odst. 2 písm. c) (vyúčtování dotací, veřejné zakázky); § 3 písm. c) (hledisko účelovosti dotace); § 5 odst. 1 (kdo přezkum vykonává).
+- *Související předpisy:* § 7, § 14 a § 14e zákona č. 218/2000 Sb. (ZRP-S — kontrola dotací ze SR poskytovatelem/finančním úřadem); § 22 zákona č. 250/2000 Sb. (odvod); kontrolní řád; zákon č. 131/2000 Sb. (přezkum hl. m. Prahy vykonává MF).
+- *Judikatura:* obecně uznávaný závěr, že různě zaměřené kontroly téhož subjektu (komplexní přezkum hospodaření vs. cílená kontrola jednotlivé dotace) se nevylučují a nezakládají překážku věci rozhodnuté.
+
+**4. Subsumpce.** Znak „nedotčená pravomoc" je naplněn — ZPH výslovně neomezuje kontrolu poskytovatele ani finančního úřadu (§ 21 odst. 1). Přezkum krajským úřadem a kontrola dotace poskytovatelem jsou různě zaměřené → překážka věci rozhodnuté nevzniká. U DSO s hl. m. Prahou je naplněn znak odst. 2 → přezkum vykonává MF (jako u hl. m. Prahy), nikoli krajský úřad ani MHMP.
+
+**5. Řešení.** Námitka obce je nedůvodná: finanční úřad i MMR mohou dotaci kontrolovat paralelně se ZPH; zjistí-li porušení podmínek, následuje odvod dle § 44 ZRP-S nebo § 22 RP-ÚR. Přezkum dle ZPH (celé hospodaření) a kontrola dotace (jen daná dotace) se doplňují. DSO, jehož členem je hl. m. Praha, přezkoumá MF. Riziko: obec je vystavena dvojí kontrole a musí počítat s tím, že „čistá" zpráva podle ZPH ji nechrání před cílenou kontrolou dotace.
+
+**6. Varianty.** (a) Kdyby šlo o dotaci z rozpočtu kraje (nikoli ze SR), kontrolu účelu by prováděl kraj jako poskytovatel a odvod by se řídil § 22 RP-ÚR. (b) Kdyby v DSO hl. m. Praha nebylo (jen obce z jednoho kraje), přezkum by vykonal příslušný krajský úřad podle obecných pravidel.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „dotaci už přezkoumal krajský úřad, druhá kontrola je nepřípustná".* Neutralizace: § 21 odst. 1 výslovně zachovává pravomoc poskytovatele a finančních orgánů; jde o jinak zaměřené kontroly bez překážky věci rozhodnuté.
+- *Protiargument „DSO s Prahou by měl přezkoumat MHMP nebo krajský úřad".* Neutralizace: odst. 2 výslovně určuje režim hl. m. Prahy → přezkum vykonává MF, čímž se zachová jednotnost přezkumu svazku.
+- *Slabé místo:* paralelní kontroly mohou vést k odlišným závěrům téže operace; obec musí být připravena vysvětlit rozpor mezi „čistou" zprávou ZPH a nálezem poskytovatele.
+
+#### H. Praktický závěr
+
+Paragraf 21 vyjasňuje vztah ZPH k jiným kontrolám: přezkum hospodaření nevylučuje samostatnou kontrolu dotací poskytovatelem ani finančními orgány (odst. 1) — obě se doplňují. Odst. 2 zajišťuje jednotnost přezkumu DSO, jehož členem je hl. m. Praha, svěřením přezkumu Ministerstvu financí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Počítat s tím, že „čistá" zpráva dle ZPH nevylučuje samostatnou kontrolu dotace poskytovatelem/finančním úřadem.
+- [ ] U dotace ze SR/NF zohlednit kontrolu dle § 14 a 14e ZRP-S a odvod dle § 44 ZRP-S.
+- [ ] U dotace z rozpočtu kraje/obce zohlednit odvod dle § 22 RP-ÚR.
+- [ ] U DSO ověřit členství hl. m. Prahy — pak přezkum vykonává MF (odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí/smlouva o poskytnutí dotace, zpráva o výsledku přezkoumání, protokoly kontrol poskytovatele a finančního úřadu, stanovy a seznam členů DSO.
+
 ---
 
 ### § 22 — Přechodná ustanovení
@@ -1042,6 +1620,42 @@ Standardní intertemporální pravidlo: **přezkumy zahájené před účinnost�
 #### Specifická lhůta pro rok 2004 (odst. 2)
 
 Pro rok 2004 byla lhůta podle § 4 odst. 1 (oznámení způsobu přezkoumání do 30. 6.) **prodloužena** na poslední den kalendářního měsíce následujícího po nabytí účinnosti ZPH (tj. **do 30. září 2004**, neboť zákon nabyl účinnosti 1. 9. 2004). Toto pravidlo také již vyčerpalo svůj obsah.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad zahájil u obce přezkum hospodaření za rok 2003 ještě v srpnu 2004 podle vyhlášky č. 41/2002 Sb. K 1. 9. 2004 nabyl účinnosti ZPH. Vyvstává otázka, podle jakého předpisu se rozběhlý přezkum dokončí a zda měla obec pro rok 2004 oznámit způsob přezkoumání do 30. 6. nebo později. (Modelová situace má dnes význam jako ilustrace intertemporálního pravidla, byť přechodná lhůta již proběhla.) Účastníci: obec, krajský úřad. Důkazy: doklad o zahájení přezkumu před 1. 9. 2004, oznámení obce o způsobu přezkoumání pro rok 2004.
+
+**2. Právní otázka.** Podle jakého předpisu se dokončí přezkum zahájený před účinností ZPH a do kdy bylo nutné pro rok 2004 oznámit způsob přezkoumání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22 odst. 1 (přezkumy zahájené před účinností se dokončí podle dosavadních předpisů), odst. 2 (lhůta pro oznámení způsobu přezkoumání za rok 2004 končí posledním dnem měsíce následujícího po účinnosti — tj. 30. 9. 2004).
+- *Související ustanovení téhož zákona:* § 4 odst. 1 (řádná lhůta do 30. 6.); § 24 (účinnost 1. 9. 2004); § 23 (zrušení vyhlášky č. 41/2002 Sb.).
+- *Související předpisy:* vyhláška č. 41/2002 Sb. a č. 67/2003 Sb. (dosavadní úprava, derogovaná § 23 ZPH); obecné zásady intertemporálního práva.
+- *Judikatura:* obecně uznávaná zásada ochrany procesních očekávání — řízení zahájené za účinnosti dřívější úpravy se zpravidla dokončí podle ní, nestanoví-li přechodné ustanovení jinak.
+
+**4. Subsumpce.** Přezkum byl zahájen před 1. 9. 2004 → naplněn znak odst. 1 → dokončí se podle vyhlášky č. 41/2002 Sb. Pro rok 2004 platí speciální prodloužená lhůta dle odst. 2 → oznámení způsobu přezkoumání do 30. 9. 2004, nikoli do 30. 6. Obě pravidla jsou dnes konzumována (přechodné období proběhlo).
+
+**5. Řešení.** Rozběhlý přezkum se dokoná podle dosavadní vyhlášky (právní jistota, ekonomie řízení); nový procesní režim ZPH se na něj zpětně neuplatní. Oznámení za rok 2004 bylo včasné, došlo-li do 30. 9. 2004. Pro praxi dnes: ustanovení slouží jen jako interpretační vodítko pro výklad intertemporality; aktuální přezkumy se řídí výlučně ZPH. Riziko: žádné aktuální — pravidlo je obsahově vyčerpané.
+
+**6. Varianty.** (a) Kdyby přezkum byl zahájen až po 1. 9. 2004, řídil by se plně ZPH (odst. 1 by se neuplatnil). (b) Pro roky po roce 2004 platí řádná lhůta do 30. 6. dle § 4 odst. 1; speciální lhůta odst. 2 se týkala výhradně roku 2004.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nový zákon se použije ihned na vše".* Neutralizace: odst. 1 výslovně zakládá dokončení podle dosavadních předpisů — princip nepravé retroaktivity chrání rozběhlá řízení.
+- *Protiargument „lhůta do 30. 6. platila i pro rok 2004".* Neutralizace: odst. 2 stanovil pro rok 2004 speciální prodlouženou lhůtu (30. 9. 2004) navázanou na účinnost zákona.
+- *Slabé místo:* ustanovení je dnes obsoletní; jeho přímá aplikace na aktuální vztahy nepřichází v úvahu, slouží jen jako výkladová ilustrace intertemporality.
+
+#### H. Praktický závěr
+
+Paragraf 22 je intertemporálním pravidlem: přezkumy zahájené před 1. 9. 2004 se dokončily podle vyhlášky č. 41/2002 Sb. a pro rok 2004 platila prodloužená oznamovací lhůta do 30. 9. 2004. Obě pravidla již vyčerpala svůj normativní obsah a mají dnes jen historicko-výkladový význam.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U historických případů určit datum zahájení přezkumu vůči 1. 9. 2004 (rozhoduje o aplikaci dosavadní vyhlášky).
+- [ ] Pro rok 2004 počítat se speciální lhůtou do 30. 9. 2004, nikoli do 30. 6.
+- [ ] Pro roky po 2004 aplikovat výlučně ZPH a řádnou lhůtu do 30. 6. (§ 4 odst. 1).
+- [ ] Nepoužívat § 22 na aktuální vztahy — ustanovení je obsahově vyčerpané.
+
+**Typicky rozhodné důkazy / podklady:** doklad o datu zahájení přezkumu, oznámení o způsobu přezkoumání za rok 2004, znění vyhlášky č. 41/2002 Sb. (pro historické posouzení).
 
 ---
 
@@ -1070,6 +1684,41 @@ Derogace je projevem **přesunu materie ze zákonné na podzákonnou rovinu** �
 
 Derogace má **„úplnou" povahu** — vyhlášky pozbývají platnosti **jako celek**, nikoli jen ve vztahu k ÚSC. (Vyhláška se však užívala pouze pro ÚSC, takže fakticky stejně.)
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V právní analýze týkající se přezkumu hospodaření za rok 2003 se objeví odkaz na vyhlášku č. 41/2002 Sb. jako na „platný prováděcí předpis". Protistrana namítá, že tato vyhláška byla zrušena a od 1. 9. 2004 ji nahradil ZPH; aplikovat ji na současné poměry nelze. Vyvstává otázka, jaký dopad mělo zrušení vyhlášek a proč k němu došlo. Účastníci: zpracovatel analýzy, oponent. Důkazy: text § 23 ZPH, znění zrušených vyhlášek, nález Ústavního soudu k zákonné formě ukládání povinností ÚSC.
+
+**2. Právní otázka.** Jaký je právní následek § 23 a proč musela být materie přezkumu povýšena z vyhlášky na zákon?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 23 (zrušení vyhlášky č. 41/2002 Sb. a vyhlášky č. 67/2003 Sb.).
+- *Související ustanovení téhož zákona:* § 22 (přechodná ustanovení — dokončení podle dosavadní úpravy); § 24 (účinnost); § 1 (předmět úpravy povýšený na zákon).
+- *Související předpisy:* čl. 79 odst. 3 a čl. 104 odst. 1 Ústavy (meze podzákonné normotvorby a zákonná forma povinností ÚSC); § 17 zákona č. 250/2000 Sb. (hmotněprávní základ přezkumu).
+- *Judikatura:* nález Ústavního soudu (zmíněný v úvodu komentáře), podle něhož povinnosti ukládané územní samosprávě musí mít zákonný základ; podzákonné ukládání povinností ÚSC bez zákonné opory je protiústavní.
+
+**4. Subsumpce.** § 23 zrušuje obě vyhlášky jako celek (úplná derogace) → ode dne účinnosti ZPH (1. 9. 2004) pozbyly platnosti. Znak „zákonná forma" je naplněn povýšením úpravy na úroveň zákona (ZPH), čímž se odstranil ústavní deficit podzákonné úpravy. Aplikace zrušené vyhlášky na současné poměry je vyloučena (s výjimkou historických řízení dle § 22 odst. 1).
+
+**5. Řešení.** Odkaz na vyhlášku č. 41/2002 Sb. jako na platný předpis je dnes nesprávný — vyhláška byla derogována a nahrazena ZPH. Na historická řízení zahájená před 1. 9. 2004 se sice ještě užila (§ 22 odst. 1), na aktuální vztahy nikoli. Důvodem derogace byl ústavní požadavek zákonné formy ukládání povinností ÚSC. Riziko: argumentace opřená o zrušený předpis je v aktuálním sporu neúčinná.
+
+**6. Varianty.** (a) Kdyby šlo o posouzení řízení zahájeného před 1. 9. 2004, vyhláška by se na jeho dokončení ještě použila (§ 22 odst. 1). (b) Kdyby zákonodárce ponechal úpravu na úrovni vyhlášky, hrozila by její derogace Ústavním soudem pro rozpor s čl. 79 odst. 3 a čl. 104 odst. 1 Ústavy.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „vyhláška obsahovala detailní pravidla, která zákon nemá, proto stále platí".* Neutralizace: § 23 ji zrušil jako celek; detailní pravidla přešla do ZPH a jeho systematiky, samostatná platnost vyhlášky zanikla.
+- *Protiargument „podzákonná úprava byla dostačující".* Neutralizace: nález Ústavního soudu vyžadoval zákonnou formu pro povinnosti ÚSC; podzákonná úprava byla ústavně neudržitelná.
+- *Slabé místo:* § 23 sám o sobě nic neukládá; jeho význam je čistě derogační a je třeba jej vykládat ve spojení s přechodným § 22 a účinnostním § 24.
+
+#### H. Praktický závěr
+
+Paragraf 23 úplně derogoval vyhlášku č. 41/2002 Sb. a její novelu č. 67/2003 Sb. a tím dokončil přesun úpravy přezkumu z podzákonné na zákonnou úroveň, jak vyžadoval ústavní pořádek. Na aktuální vztahy se zrušené vyhlášky neaplikují (s výjimkou historických řízení dle § 22 odst. 1).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Neaplikovat vyhlášku č. 41/2002 Sb. ani č. 67/2003 Sb. na aktuální vztahy (jsou zrušené).
+- [ ] Pro historická řízení zahájená před 1. 9. 2004 zohlednit § 22 odst. 1 (dokončení podle dosavadní úpravy).
+- [ ] Argumentaci o povinnostech ÚSC opírat o zákonný základ (ZPH + § 17 RP-ÚR), nikoli o podzákonný předpis.
+
+**Typicky rozhodné důkazy / podklady:** text § 23 ZPH, znění zrušených vyhlášek (jen pro historické posouzení), nález Ústavního soudu k zákonné formě povinností ÚSC.
+
 ---
 
 ### § 24 — Účinnost
@@ -1097,6 +1746,42 @@ Zákon je podepsán třemi ústavními činiteli:
 - **Zaorálek** — předseda Poslanecké sněmovny PČR (Lubomír Zaorálek, 2002–2006),
 - **Klaus** — prezident republiky (Václav Klaus, 2003–2013),
 - **Špidla** — předseda vlády (Vladimír Špidla, 2002–2004; krátce po podpisu zákona, 4. 7. 2004, odstoupil).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V soudním sporu o odvod za porušení rozpočtové kázně u operace z roku 2004 je sporné, zda se na danou operaci (uskutečněnou v srpnu 2004) již vztahoval ZPH, nebo ještě předchozí podzákonná úprava. Jedna strana tvrdí, že zákon platí „od svého vyhlášení" 9. 7. 2004, druhá namítá pozdější účinnost. Účastníci: obec, poskytovatel/kontrolní orgán, soud. Důkazy: Sbírka zákonů (částka 138/2004, datum vyhlášení 9. 7. 2004), text § 24, doklad o datu uskutečnění operace.
+
+**2. Právní otázka.** Ke kterému dni nabyl ZPH účinnosti a jak se určí, zda se na konkrétní úkon vztahoval ZPH nebo dosavadní úprava?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 (účinnost prvním dnem kalendářního měsíce následujícího po vyhlášení → 1. 9. 2004).
+- *Související ustanovení téhož zákona:* § 22 (přechodná ustanovení — dokončení podle dosavadní úpravy, speciální lhůta pro rok 2004); § 23 (zrušení vyhlášek).
+- *Související předpisy:* zákon č. 309/1999 Sb., o Sbírce zákonů (vyhlašování a nabývání platnosti/účinnosti právních předpisů); čl. 52 Ústavy (podmínka vyhlášení).
+- *Judikatura:* obecně uznávaná zásada, že rozhodný je den účinnosti, nikoli vyhlášení; legisvakance slouží k seznámení adresátů s novou úpravou.
+
+**4. Subsumpce.** Zákon byl vyhlášen 9. 7. 2004; „první den měsíce následujícího po vyhlášení" je 1. 9. 2004 (následujícím celým měsícem po červenci je srpen, jehož prvním dnem… — přesněji: prvním dnem kalendářního měsíce následujícího po měsíci vyhlášení, tj. po srpnu nastává září → 1. 9. 2004, jak uvádí výklad). Operace ze srpna 2004 tedy spadá ještě pod dosavadní úpravu (před účinností ZPH), nikoli pod ZPH.
+
+**5. Řešení.** Rozhodný je den účinnosti 1. 9. 2004, nikoli vyhlášení 9. 7. 2004. Na úkony do 31. 8. 2004 se vztahuje dosavadní úprava (vyhláška č. 41/2002 Sb.), na úkony od 1. 9. 2004 ZPH. Argumentace „platí od vyhlášení" je nesprávná. Pro praxi dnes: ustanovení je obsahově konzumováno (účinnost dávno nastala) a slouží jen k dataci aplikovatelnosti zákona. Riziko: záměna data vyhlášení a účinnosti by vedla k chybnému určení rozhodného práva.
+
+**6. Varianty.** (a) Kdyby zákon obsahoval konkrétní pozdější datum účinnosti, řídila by se aplikovatelnost tímto datem, nikoli pravidlem „první den následujícího měsíce". (b) Kdyby šlo o procesní řízení zahájené před 1. 9. 2004, dokončilo by se podle dosavadní úpravy (§ 22 odst. 1) bez ohledu na to, že některé úkony spadají do doby po účinnosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zákon platí od vyhlášení".* Neutralizace: platnost (vyhlášením) a účinnost (1. 9. 2004) je třeba odlišovat; aplikovatelnost se váže na účinnost.
+- *Protiargument „krátká legisvakance znamená, že adresáti nebyli připraveni".* Neutralizace: materie jen povýšila dosavadní podzákonná pravidla na zákon, adresáti je znali z vyhlášky č. 41/2002 Sb.; necelé dva měsíce postačovaly.
+- *Slabé místo:* § 24 sám nic neukládá; jeho význam je čistě určení okamžiku účinnosti a je třeba jej číst spolu s přechodným § 22.
+
+#### H. Praktický závěr
+
+Paragraf 24 stanoví účinnost ZPH na 1. 9. 2004 (první den měsíce následujícího po vyhlášení 9. 7. 2004) s krátkou legisvakancí. Pro určení rozhodného práva je směrodatný den účinnosti, nikoli vyhlášení; na úkony a řízení z doby před účinností dopadá dosavadní úprava (§ 22).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pro aplikaci ZPH vycházet z data účinnosti 1. 9. 2004, nikoli z data vyhlášení.
+- [ ] Úkony do 31. 8. 2004 posuzovat podle dosavadní úpravy, od 1. 9. 2004 podle ZPH.
+- [ ] U řízení zahájených před účinností zohlednit § 22 odst. 1 (dokončení podle dosavadních předpisů).
+- [ ] Nezaměňovat platnost (vyhlášení) a účinnost (aplikovatelnost) předpisu.
+
+**Typicky rozhodné důkazy / podklady:** Sbírka zákonů (částka 138/2004, datum vyhlášení), text § 24, doklad o datu uskutečnění posuzovaného úkonu či zahájení řízení.
 
 ---
 
