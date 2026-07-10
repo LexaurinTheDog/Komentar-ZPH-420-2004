@@ -101,3 +101,120 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | úřad může; rozhodne | § 4 |
 | Oprávnění a povinnost | povinnost; musí; jsou povinni; má právo; je povinna | § 2; § 5; § 6; § 7; § 9 |
 | Domněnky a fikce | nenalezen spolehlivý signál | — |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 420/2004 Sb., o přezkoumávání hospodaření ÚSC a DSO (ZPH) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality vyjadřují způsob, jakým norma spojuje s určitým jednáním deontický status. Nauka rozlišuje **objektivní modality**, které charakterizují normu z hlediska jejího regulativního působení na adresáty, a **subjektivní modality**, jež popisují právní postavení konkrétních subjektů. Mezi objektivní modality patří **příkaz** (norma ukládá konat), **zákaz** (norma ukládá zdržet se jednání, typicky prostřednictvím sankčně zajištěné skutkové podstaty) a **dovolení** (norma jednání umožňuje, aniž je vynucuje). Zvláštní postavení má **zmocnění** jakožto kompetenční norma, která určitému orgánu svěřuje pravomoc a působnost; nejde o příkaz ani dovolení v pravém smyslu, nýbrž o normu konstitutivně zakládající oprávnění (a zpravidla zároveň povinnost) veřejné moci jednat ve vymezené oblasti.
+
+Subjektivní modality tvoří korelativní dvojici **oprávnění—povinnost**: oprávnění jednoho subjektu (nárok, možnost něčeho se domáhat) zpravidla odpovídá povinnost subjektu jiného. V přezkumovém právu je tato korelativita zřetelná — oprávnění kontrolora vyžádat si podklady koresponduje se součinnostní povinností kontrolovaného, a naopak procesní práva územního celku (být seznámen, vyjádřit se) tvoří protiváhu povinností přezkoumávajícího orgánu. Normativní výrazy, jimiž zákonodárce modality signalizuje, jsou v ZPH poměrně ustálené: „tak učiní", „je povinen", „je povinna poskytnout součinnost", „neprodleně informuje" (příkaz a povinnost), „může uskutečnit" (dovolení), „je oprávněn", „má právo" (oprávnění), „přísluší" (zmocnění, kompetence) a „nepovažuje se", „nahrazuje" (domněnky a fikce).
+
+**Domněnky a fikce** představují normativní techniky práce se skutkovým základem. Domněnka (praesumptio) váže na existenci jedné skutečnosti závěr o existenci skutečnosti jiné; může být **vyvratitelná** (připouští důkaz opaku) nebo **nevyvratitelná** (opak dokazovat nelze). **Fikce** naproti tomu za dané prohlašuje něco, co ve skutečnosti neexistuje nebo je odlišné, a to bez možnosti důkazu opaku — jde o normativní ztotožnění. Obě techniky přeskupují **důkazní břemeno** a zjednodušují aplikaci práva. V ZPH nacházíme fikční ztotožnění (zpráva „nahrazuje" protokol o kontrole) i legální definici pracující negativním vymezením („za bezúhonného se nepovažuje").
+
+### Příkaz
+
+Příkazové normy tvoří kostru procesního mechanismu přezkoumání. ZPH jimi zejména časuje jednotlivé úkony a přiřazuje je konkrétním nositelům: územnímu celku ukládá iniciační povinnost k pevnému datu, přezkoumávajícímu orgánu formu a lhůtu zahájení a kontrolorovi oznamovací povinnost při podezření z trestného činu. Charakteristické je, že příkazy jsou formulovány jako bezvýhradné (indikativ „tak učiní", „informuje", „zahajuje"), přičemž jejich nesplnění se zpravidla promítá do sankčního režimu (§ 14) nebo do procesní vadnosti přezkumu.
+
+Typickým znakem příkazů v ZPH je jejich **lhůtní ukotvení**. Povinnost územního celku podle § 4 odst. 1 je vázána na 30. červen kalendářního roku a představuje každoroční „spouštěč" celého mechanismu. Zahajovací příkaz podle § 5 odst. 3 modifikuje obecný kontrolní řád tím, že zkracuje oznamovací lhůtu na nejpozději 5 dnů přede dnem realizace, čímž vyvažuje ochranu územního celku a operativnost kontroly.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 4 odst. 1 | tak učiní / oznámí | „tak učiní do 30. června každého kalendářního roku, anebo v téže lhůtě příslušnému úřadu ve smyslu § 5 odst. 3 oznámí, že se rozhodly zadat přezkoumání auditorovi" | Klíčová iniciační povinnost územního celku k pevnému datu, jíž se každoročně zahajuje přezkum. |
+| § 5 odst. 3 | zahajuje … doručeným … nejpozději 5 dnů | „zahajuje přezkoumání písemným oznámením doručeným územnímu celku nejpozději 5 dnů přede dnem realizace výkonu přezkoumání" | Forma a zkrácená lhůta zahájení; modifikace obecného kontrolního řádu. |
+| § 6 odst. 2 | neprodleně … písemně informuje | „neprodleně o nich písemně informuje příslušné zastupitelstvo, případně statutární orgán dobrovolného svazku obcí." | Oznamovací povinnost kontrolora při podezření z trestného činu vůči zastupitelstvu. |
+
+### Zákaz
+
+Zákazové modality nejsou v ZPH vyjádřeny klasickým „je zakázáno", nýbrž prostřednictvím **skutkových podstat přestupků**, které deonticky implikují zákaz jednání v nich popsaného. Ustanovení § 14 odst. 1 vymezuje procesní pochybení územního celku (kolem zprávy a součinnosti) a spojuje s nimi sankci pokutou do 50 000 Kč. Zákazová funkce spočívá právě v tom, že jednání naplňující skutkovou podstatu je nedovolené a stíhatelné.
+
+Judikatura zdůrazňuje, že samotná zjištění ve zprávě nejsou sankcí ani autoritativním uložením povinnosti; deliktní odpovědnost vzniká teprve porušením zákonné povinnosti (nepřijetí nápravných opatření, neinformování orgánu), na které navazuje sankční řízení podle § 14.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 14 odst. 1 | se dopustí přestupku tím, že | „Územní celek se dopustí přestupku tím, že" | Vymezení skutkových podstat přestupků územního celku, sankcionovaných pokutou do 50 000 Kč. |
+
+- *NSS* [7 As 164/2017 - 26](judikatura/NSS-7-As-164-2017-26.md) — rozsudek, 27. 3. 2018
+  > „V tomto řízení se pouze ukládá sankce za to, že celek nepřijal nápravná opatření, neinformoval o nich přezkoumávající orgán, případně nesplnil další povinnosti dle § 13 zákona č. 420/2004 Sb"
+
+### Dovolení
+
+Dovolovací norma v § 4 odst. 5 dává krajskému úřadu možnost — nikoli povinnost — zvolit u nejmenších obcí zjednodušený režim. Modální výraz „může uskutečnit" signalizuje diskreci: orgán je oprávněn namísto průběžných dílčích přezkoumání provést jednorázové přezkoumání, pokud jsou splněny zákonné podmínky (nevykonávání hospodářské činnosti a počet obyvatel menší než 800 osob). Dovolení zde plní funkci **procesní hospodárnosti** a zohledňuje odlišnou míru rizika u malých subjektů.
+
+Je třeba odlišit toto dovolení od zmocnění: § 4 odst. 5 nezakládá kompetenci jako takovou (ta plyne z jiných ustanovení), nýbrž v jejím rámci připouští volbu mírnějšího procesního postupu.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 4 odst. 5 | může uskutečnit | „Jednorázová přezkoumání může uskutečnit krajský úřad u obcí, které nevykonávají hospodářskou činnost a mají počet obyvatel menší než 800 osob." | Diskreční možnost zjednodušeného jednorázového přezkoumání u nejmenších obcí. |
+
+### Zmocnění
+
+Zmocňovací (kompetenční) normy určují, který orgán je nositelem pravomoci a působnosti. V ZPH je paradigmatem § 20 odst. 1, jenž Ministerstvu financí svěřuje výlučný **státní dozor** nad přezkumy vykonanými auditory. Výraz „přísluší" je typickým kompetenčním obratem: nezakládá pouze oprávnění, nýbrž zároveň závazek orgánu působnost vykonávat, a to ve vymezeném rozsahu (u příslušného územního celku). Účelem je udržet paritu kvality mezi orgánovým a auditorským přezkumem.
+
+Že jde skutečně o výkon dozorové kompetence podle § 20 odst. 1, potvrzuje i místní judikatura, která popisuje zprávy ministerstva o výsledcích dozoru nad auditorskými přezkumy.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 20 odst. 1 | dozor přísluší Ministerstvu financí | „Dozor nad přezkoumáním přísluší Ministerstvu financí a vykonává se u příslušného územního celku." | Kompetenční norma svěřující MF výlučný státní dozor nad auditorskými přezkumy. |
+
+- *NSS* [10 Ad 12/2022 - 355](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/712987) — rozsudek, 21.06.2023
+  > „Městský soud ze správního spisu ověřil, že zpráva ministerstva financí o výsledcích dozoru provedených v roce 2018 a 2019 nad přezkoumáním hospodaření vykonaným auditory a auditorskými společnostmi za roky 2016 až 2018, se týkala toliko dozoru nad přezkoumáním hospodaření územních samosprávných celků a dobrovolných svazků obcí podle § 20 odst. 1 zákona č. 420/2004 Sb"
+
+### Oprávnění a povinnost
+
+Oprávnění a povinnosti tvoří v ZPH provázaný, korelativní systém. Na straně kontrolního orgánu stojí **oprávnění** vyžádat si účetní záznamy (§ 5 odst. 4), jemuž na straně kontrolovaných a jimi zřízených osob odpovídá **součinnostní povinnost** (§ 9). Na straně přezkoumávaného územního celku pak stojí procesní **oprávnění** (§ 7 — právo být seznámen a podat stanovisko), tvořící kontradiktorní protiváhu povinnostem kontrolora. Konečně § 13 odst. 1 písm. b) ukládá územnímu celku hmotnou **povinnost** reagovat na zjištěné nedostatky.
+
+Korelativita je zde funkčně významná: oprávnění kontrolora bez odpovídající součinnostní povinnosti by bylo neúčinné, a naopak povinnosti kontrolovaného subjektu jsou vyvažovány jeho procesními právy. Judikatura zdůrazňuje, že povinnost přijmout opatření k nápravě neukládá orgán ve zprávě autoritativně — plyne přímo ze zákona a je na samotném územním celku, jak zjištění vyhodnotí a jaké systémové opatření učiní.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 5 odst. 4 | je kontrolor oprávněn | „je kontrolor oprávněn si vyžádat od kontrolované účetní jednotky nebo od jiného kontrolního orgánu účetní záznamy" | Subjektivní oprávnění kontrolora získávat účetní záznamy, urychlující přezkum. |
+| § 7 | má právo | „Územní celek, u něhož se přezkoumání koná, má právo" | Procesní práva přezkoumávaného celku (seznámení, stanovisko) jako kontradiktorní protiváha. |
+| § 9 | je povinna poskytnout součinnost | „Při přezkoumání je povinna poskytnout součinnost i územním celkem zřízená nebo založená právnická osoba." | Rozšíření součinnostní povinnosti na zřízené či založené právnické osoby. |
+| § 13 odst. 1 písm. b) | je povinen přijmout opatření | „přijmout opatření k nápravě chyb a nedostatků uvedených ve zprávě o výsledku přezkoumání hospodaření zpracované přezkoumávajícím orgánem, nebo auditorem" | Hmotná povinnost reagovat na zjištěné nedostatky; nesplnění je přestupkem. |
+
+- *NSS* [30 A 67/2016 - 91](judikatura/NSS-30-A-67-2016-91.md) — usnesení, 27. 4. 2017
+  > „Dne 4. 4. 2016 podal žalobce ve smyslu ustanovení § 7 písm. c) zákon č. 420/2004 Sb. písemné stanovisko k návrhu zprávy o výsledku přezkoumání hospodaření"
+- *NSS* [30 A 70/2016 - 80](judikatura/NSS-30-A-70-2016-80.md) — rozsudek, 27. 4. 2017
+  > „Tato povinnost mu vyplývá ze zákona (ustanovení § 13 zákona č. 420/2004 Sb.), přičemž zmíněné ustanovení požaduje, aby sám kontrolovaný subjekt (územní celek) přijal opatření k nápravě. Je tedy na samotném žalobci, jak ve Zprávě uvedená zjištění sám vyhodnotí a jaké systémové opatření učiní"
+
+### Domněnky a fikce
+
+ZPH pracuje se dvěma odlišnými normativními technikami. V § 5 odst. 2 jde o **legální (přísnější) definici** provedenou negativním vymezením: výrazem „nepovažuje se" zákon fixuje, koho nelze pověřit výkonem přezkumu (nikoli bezúhonná osoba). Tato konstrukce funguje jako nevyvratitelné normativní pravidlo — je-li dána kvalifikovaná odsuzující skutečnost, závěr o vyloučení nastupuje bez možnosti opaku. V § 10 odst. 1 jde naproti tomu o **fikci** ztotožňující zprávu s protokolem o kontrole („nahrazuje protokol o kontrole"): normativně se prohlašuje, že jeden dokument plní obě funkce, takže se nepořizují dva dokumenty.
+
+Fikce podle § 10 odst. 1 má významné procesní důsledky, jež reflektuje judikatura: přestože zpráva nahrazuje protokol, sama o sobě autoritativně neukládá povinnosti a nemění právní postavení kontrolovaného — kontrolní zjištění nejsou vykonatelná ani způsobilá vyvolat právní následky. Fikce tedy působí na úrovni náležitostí a funkce dokumentu, nikoli na úrovni konstitutivních účinků.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 5 odst. 2 | se nepovažuje | „Za bezúhonného se pro účely tohoto zákona nepovažuje zaměstnanec, který byl pravomocně odsouzen za úmyslný trestný čin" | Legální (přísnější) definice bezúhonnosti kontrolora vylučující pověření výkonem přezkumu. |
+| § 10 odst. 1 | nahrazuje protokol o kontrole | „Zpráva o výsledku přezkoumání hospodaření nahrazuje protokol o kontrole podle kontrolního řádu" | Fikční ztotožnění zprávy s protokolem o kontrole; jeden dokument plní obě funkce. |
+
+- *NSS* [30 A 70/2016 - 80](judikatura/NSS-30-A-70-2016-80.md) — rozsudek, 27. 4. 2017
+  > „Kontrolními zjištěními obsaženými v protokolu o kontrole (zprávě) tak k žádnému zásahu do práv nedochází, nejsou totiž bez dalšího ani samostatně vykonatelná, ani způsobilá vyvolat sama o sobě jakékoliv jiné právní následky, jež by znamenaly újmu pro jejich adresáta"
+- *NSS* [30 A 67/2016 - 91](judikatura/NSS-30-A-67-2016-91.md) — usnesení, 27. 4. 2017
+  > „Žaloba v dané věci směřovala proti zprávě o výsledku přezkoumání hospodaření, která byla vydána ve smyslu ustanovení § 10 zákona č. 420/2004 Sb. a která se po projednání žalobcových námitek proti zjištěním uvedeným v jejím návrhu stala zprávou konečnou"
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Jednotlivé modality se v ZPH nekombinují nahodile, nýbrž se skládají do provázaných institutů. **Zahájení a průběh přezkumu** spojuje iniciační příkaz územního celku (§ 4 odst. 1, výraz „tak učiní … anebo … oznámí") s dovolením volit zjednodušený režim u nejmenších obcí (§ 4 odst. 5, „může uskutečnit") a se zahajovacím příkazem orgánu (§ 5 odst. 3, „zahajuje … nejpozději 5 dnů"). Do téhož institutu vstupuje fikce definice bezúhonnosti (§ 5 odst. 2, „se nepovažuje"), která limituje, kdo přezkum vykonává.
+
+**Získávání podkladů a součinnost** je učebnicovou korelativní dvojicí: oprávnění kontrolora (§ 5 odst. 4, „je kontrolor oprávněn") stojí proti součinnostní povinnosti zřízených osob (§ 9, „je povinna poskytnout součinnost"). **Kontradiktorní fáze** vyvažuje oznamovací příkaz kontrolora (§ 6 odst. 2, „neprodleně … písemně informuje") procesními právy celku (§ 7, „má právo").
+
+**Výstup a jeho vynucení** propojuje fikci zprávy (§ 10 odst. 1, „nahrazuje protokol o kontrole") s hmotnou povinností nápravy (§ 13 odst. 1 písm. b), „je povinen … přijmout opatření"), jejíž porušení naplňuje skutkovou podstatu přestupku (§ 14 odst. 1, „se dopustí přestupku tím, že"). Nad auditorskou větví přezkumu se pak klene kompetenční zmocnění dozoru (§ 20 odst. 1, „dozor … přísluší Ministerstvu financí"). Judikatura tuto skladbu potvrzuje: zpráva (fikce § 10) sama povinnosti neukládá, povinnost nápravy (§ 13) plyne ze zákona a teprve její porušení je sankcionováno (§ 14).
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+|---|---|---|
+| Příkaz | „tak učiní / oznámí", „zahajuje … nejpozději 5 dnů", „neprodleně … písemně informuje" | § 4 odst. 1; § 5 odst. 3; § 6 odst. 2 |
+| Zákaz | „se dopustí přestupku tím, že" | § 14 odst. 1 |
+| Dovolení | „může uskutečnit" | § 4 odst. 5 |
+| Zmocnění | „dozor … přísluší Ministerstvu financí" | § 20 odst. 1 |
+| Oprávnění | „je kontrolor oprávněn", „má právo" | § 5 odst. 4; § 7 |
+| Povinnost | „je povinna poskytnout součinnost", „je povinen … přijmout opatření" | § 9; § 13 odst. 1 písm. b) |
+| Domněnka / fikce | „se nepovažuje", „nahrazuje protokol o kontrole" | § 5 odst. 2; § 10 odst. 1 |
