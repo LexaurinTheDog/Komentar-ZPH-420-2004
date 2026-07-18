@@ -159,6 +159,7 @@ Zmocňovací (kompetenční) normy určují, který orgán je nositelem pravomoc
 | [§ 20 odst. 1](https://e-sbirka.gov.cz/sb/2004/420#par_20) | dozor přísluší Ministerstvu financí | „Dozor nad přezkoumáním přísluší Ministerstvu financí a vykonává se u příslušného územního celku." | Kompetenční norma svěřující MF výlučný státní dozor nad auditorskými přezkumy. |
 
 - *NSS* [10 Ad 12/2022 - 355](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/712987) — rozsudek, 21.06.2023
+  > ⚠️ **[CHYBNÁ ATRIBUCE]** Místní plný záznam `Supreme Administrative Court/Decisions/712987.md` identifikuje toto rozhodnutí jako **rozsudek Městského soudu v Praze ze dne 21. 6. 2023, sp. zn. 10 Ad 12/2022-355**, nikoli jako rozsudek NSS. Citovaná pasáž byla v místním záznamu dohledána.
   > „Městský soud ze správního spisu ověřil, že zpráva ministerstva financí o výsledcích dozoru provedených v roce 2018 a 2019 nad přezkoumáním hospodaření vykonaným auditory a auditorskými společnostmi za roky 2016 až 2018, se týkala toliko dozoru nad přezkoumáním hospodaření územních samosprávných celků a dobrovolných svazků obcí podle § 20 odst. 1 zákona č. 420/2004 Sb"
 
 ### Oprávnění a povinnost

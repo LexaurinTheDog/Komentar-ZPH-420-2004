@@ -2,6 +2,8 @@
 
 > **Téma:** Zákon č. 420/2004 Sb. (dále „**ZPH**") kodifikuje **každoroční obligatorní vnější přezkum hospodaření** územních samosprávných celků, městských částí hl. m. Prahy a dobrovolných svazků obcí. Materie se v podzákonné podobě uplatňovala již podle vyhlášky č. 41/2002 Sb.; po nálezu Ústavního soudu, který trval na zákonné formě ukládání povinností ÚSC, bylo nutno povýšit úpravu na úroveň zákona. ZPH zavádí: (i) **dvojkolejnost** přezkumného režimu — krajský úřad (zdarma) vs. nezávislý auditor (na účet ÚSC); (ii) **plný kontradiktorní průběh** přezkumu se zápisy z dílčích přezkoumání a kontradiktorním projednáním návrhu zprávy; (iii) **standardizovanou zprávu o výsledku přezkoumání hospodaření** se třístupňovou klasifikací závěru (bez závad / s nezávažnými závadami / se závažnými nedostatky v šesti taxativně vyjmenovaných kategoriích); (iv) **povinné výroky** o riziku, podílu pohledávek a závazků a o **dluhovém pravidle (60 % průměru příjmů za 4 roky)**; (v) přestupky a pokuty do **50 000 Kč** za neplnění informačních a součinnostních povinností. ZPH se subsidiárně doplňuje **kontrolním řádem (255/2012 Sb.)** a u auditorské varianty **zákonem o auditorech (93/2009 Sb.)**.
 
+> ⚠️ **[NEOVĚŘENO]** Místní důvodová zpráva ani dohledaný lokální korpus judikatury neidentifikují konkrétní nález Ústavního soudu, který by byl přímým důvodem přijetí ZPH. Tvrzení o takovém nálezu nelze bez spisové značky používat jako citaci; historický důvod přijetí zákona je bezpečně doložen potřebou nahradit neúplnou podzákonnou úpravu ucelenými zákonnými procesními pravidly.
+
 ---
 
 ## Předmět a hlediska úpravy (§ 1–3)
@@ -25,6 +27,8 @@ ZPH se vědomě **omezuje na procesní rovinu**: stanoví **předmět** (co se p
 
 ZPH tedy plní vůči těmto hmotněprávním normám roli **prováděcího procesního kodexu**.
 
+> **Revizní korekce:** Označení ZPH za předpis omezený výlučně na procesní rovinu je příliš široké. § 1 sám základní každoroční povinnost nezakládá, další ustanovení ZPH však přímo ukládají informační, součinnostní a nápravné povinnosti, zejména v § 4, 9 a 13.
+
 #### Legislativní zkratka „územní celek"
 
 Pojem „**územní celek**" je v § 1 zaveden jako legislativní zkratka pro souhrn:
@@ -39,9 +43,13 @@ Pojem „**územní celek**" je v § 1 zaveden jako legislativní zkratka pro so
 
 Zákon **nesměřuje** na svazky územních samosprávných celků větší než DSO (např. tzv. regionální rady), ani na obecní obchodní společnosti či příspěvkové organizace — ty jsou předmětem **součinnostní povinnosti** podle § 9 ZPH a kontroly podle ZFK (320/2001 Sb.).
 
+> **Revizní korekce:** Regionální rady regionů soudržnosti byly samostatnými právnickými osobami, nikoli „svazky územních samosprávných celků“. Do osobní působnosti ZPH byly zahrnuty od 1. 7. 2006 a byly z ní vypuštěny s účinností od 1. 1. 2022 v souvislosti se svým zrušením uplynutím 31. 12. 2021.
+
 #### Vazba na ústavněprávní rámec
 
 ZPH respektuje **právo na samosprávu** podle čl. 100 odst. 1 Ústavy: územní celek **volí mezi orgánovým přezkumem a auditorem** (§ 4 odst. 1). Současně však chrání legitimní zájem státu na řádném hospodaření s veřejnými prostředky — proto je přezkum **obligatorní každoročně** a ÚSC se mu nemůže vyhnout. Ústavněprávní kompromis: stát **požaduje**, aby přezkum proběhl, ale ÚSC si **vybírá**, kým bude proveden.
+
+> **Revizní korekce:** Poslední věta neplatí obecně pro všechny adresáty § 1. Kraj si přezkoumávající subjekt nevolí; podle § 20 zákona č. 129/2000 Sb. jeho hospodaření přezkoumává Ministerstvo financí.
 
 #### F. Kazuistika
 
@@ -55,11 +63,17 @@ ZPH respektuje **právo na samosprávu** podle čl. 100 odst. 1 Ústavy: územn�
 - *Související předpisy:* § 17 odst. 4 zákona č. 250/2000 Sb. (hmotněprávní povinnost přezkumu); § 49 a násl. zákona č. 128/2000 Sb. (právní povaha DSO).
 - *Judikatura:* nález Ústavního soudu k nutnosti zákonné formy ukládání povinností ÚSC (zmíněný v úvodu komentáře) — povinnosti dopadající na územní samosprávu musí mít zákonný základ, který § 1 ZPH ve spojení s § 17 RP-ÚR poskytuje.
 
+> ⚠️ **[NEOVĚŘENO]** Konkrétní rozhodnutí, datum ani spisová značka nejsou v dosavadním textu uvedeny a nebyly dohledány v místních pramenech jako přímá opora tohoto tvrzení.
+
 **4. Subsumpce.** DSO je výslovně podřazen pod znak „dobrovolný svazek obcí" v § 1 a tím pod zkratku „územní celek". Povinnost přezkumu je tedy dána (znak „uložené zvláštními právními předpisy" je naplněn § 17 odst. 4 RP-ÚR). Sporné není nic — domněnka předsedy o vynětí DSO je právně nesprávná.
 
 **5. Řešení.** Svazek je povinen přezkum zajistit stejně jako obec. Protože do 30. 6. nepožádal ani neoznámil auditora, krajský úřad postupuje podle § 4 odst. 9: do 28. 2. následujícího roku oznámí pochybení orgánu svazku (resp. osobě určené stanovami) a přezkum sám vykoná. Procesně: ověřit ve stanovách, kdo je statutárním orgánem, doručit oznámení o zahájení přezkumu (§ 5 odst. 3). Riziko: politicko-disciplinární dopad na předsedu; možná odpovědnost za škodu, vznikne-li svazku náklad navíc.
 
+> **Revizní korekce:** Postup podle § 4 odst. 9 je náhradním mechanismem zajištění přezkoumání, nikoli sankcí. Formulace o „politicko-disciplinárním dopadu“ a možné odpovědnosti předsedy za škodu nejsou v dosavadním textu podloženy konkrétním místním pramenem; posouzení případné odpovědnosti by vyžadovalo prokázání porušení povinnosti, vzniku škody, příčinné souvislosti a zavinění v konkrétních poměrech svazku.
+
 **6. Varianty.** (a) Kdyby šlo o sdružení nad rámec DSO (např. regionální radu regionu soudržnosti), § 1 by nedopadal a režim by se řídil zvláštním předpisem (§ 16a zákona č. 248/2000 Sb.). (b) Kdyby DSO včas oznámil volbu auditora, povinnost by byla splněna a krajský úřad by přezkum nevykonával.
+
+> **Revizní korekce:** Varianta (a) popisuje překonaný stav. Regionální rady byly do 31. 12. 2021 zvláštními právnickými osobami a tehdejší § 1 ZPH je výslovně zahrnoval; od 1. 1. 2022 již neexistují a z § 1 byly vypuštěny. Poznámka pod čarou k současnému § 1, která stále odkazuje na § 16a zákona č. 248/2000 Sb., nemá normativní účinek.
 
 #### G. Protiargumenty a rizika
 
@@ -78,6 +92,100 @@ Paragraf 1 vymezuje pouze procesní rovinu a zavádí zkratku „územní celek"
 - [ ] Odlišit subjekty mimo zkratku (regionální rady, obchodní společnosti obce — ty jen součinnost dle § 9).
 
 **Typicky rozhodné důkazy / podklady:** stanovy a zakladatelská smlouva DSO, výpis z rejstříku svazků obcí, zákon č. 250/2000 Sb. (§ 17), doklad o podané/nepodané žádosti o přezkum.
+
+<!-- LEGAL-REVISION:BEGIN act=420/2004 provision=1 date=2026-07-17 -->
+
+#### Revizní doplnění k § 1 — Předmět úpravy
+
+> Revize: 2026-07-17 | Znění ověřeno v místním snapshotu e‑Sbírky ke: 14. 4. 2026 | Konsolidované znění účinné od: 1. 7. 2025 | Stav: revidováno
+
+##### Znění ustanovení
+
+> **§ 1**
+>
+> **Předmět úpravy**
+>
+> Tento zákon upravuje přezkoumávání hospodaření územních samosprávných celků, jakož i městských částí hlavního města Prahy a dobrovolných svazků obcí (dále jen „územní celek“), uložené zvláštními právními předpisy1) (dále jen „přezkoumání“), a stanoví předmět, hlediska, postup a pravidla přezkoumání.
+>
+> 1) § 17 odst. 4 zákona č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů, ve znění pozdějších předpisů.
+> § 16a zákona č. 248/2000 Sb., o podpoře regionálního rozvoje, ve znění zákona č. 138/2006 Sb.
+
+Pramen znění: místní konsolidace e‑Sbírky, `SB-2004-00420_2025-07-01`, `esel-esb:eli/cz/sb/2004/420/2025-07-01`. Datum 14. 4. 2026 označuje poslední kontrolu místního datového snapshotu, nikoli stav veřejné e‑Sbírky ke dni revize.
+
+##### Přehled výkladu
+
+- normativní funkce § 1 a vztah k povinnosti každoročního přezkumu — marg. č. 1–2;
+- osobní působnost a legislativní zkratka „územní celek“ — marg. č. 3–4;
+- odlišení působnosti zákona od volby přezkoumávajícího subjektu — marg. č. 5;
+- historický a teleologický výklad — marg. č. 6;
+- novelizační vývoj a intertemporalita — marg. č. 7–8;
+- procesní význam, dokazování statusu, termíny a sankční souvislosti — marg. č. 9–13.
+
+##### Souvisící ustanovení
+
+§ 2 a 3 (předmět a hlediska přezkoumání); § 4 a 5 (zabezpečení a zahájení přezkoumání); § 6, 7 a 9 až 13 (pravidla přezkoumání, součinnost, zpráva a náprava); § 20 (dozor nad přezkoumáním vykonaným auditorem); § 22 (přechodná ustanovení původního zákona).
+
+##### Souvisící předpisy
+
+- § 17 odst. 4 zákona č. 250/2000 Sb. — základní povinnost územního samosprávného celku a svazku obcí dát si přezkoumat hospodaření za uplynulý kalendářní rok;
+- § 42 a 53 zákona č. 128/2000 Sb. — způsob zabezpečení přezkoumání obce a svazku obcí; § 49 až 53g, zejména § 53a a 53c, téhož zákona — postavení svazku obcí a vznik zvláštního postavení společenství obcí;
+- § 20 zákona č. 129/2000 Sb. — přezkoumání hospodaření kraje Ministerstvem financí;
+- § 38 zákona č. 131/2000 Sb. — přezkoumání hlavního města Prahy a jeho městských částí;
+- čl. XV a XVI zákona č. 138/2006 Sb. — někdejší rozšíření působnosti ZPH na regionální rady s účinností od 1. 7. 2006;
+- čl. II, XI a XVIII zákona č. 251/2021 Sb. — zrušení regionálních rad uplynutím 31. 12. 2021, jejich vypuštění z § 1 a účinnost této změny od 1. 1. 2022.
+- § 22a odst. 1 písm. i) a odst. 4 zákona č. 250/2000 Sb. — přestupek spočívající v nezajištění přezkoumání a horní hranice pokuty 1 000 000 Kč.
+
+##### Z důvodové zprávy
+
+> **Shrnutí důvodové zprávy:** Zvláštní část označuje § 1 za vymezení cíle zákona a jeho osobní působnosti. Obecná část vysvětluje potřebu nahradit neúplnou úpravu vyhláškou č. 41/2002 Sb. uceleným zákonným rámcem předmětu, hledisek, postupu a procesního postavení účastníků. Přezkoumávající orgány měly působit kontrolně, aniž by v samostatné působnosti samy ukládaly konkrétní nápravná opatření nebo pozastavovaly činnost územního celku.
+>
+> Místní pramen: `DUVODOVA-ZPRAVA.md`, Poslanecká sněmovna Parlamentu ČR, 4. volební období, sněmovní tisk 480, obecná část a zvláštní část k § 1.
+
+> **Formulační zpřesnění:** Smyslem poslední věty není tvrdit, že přezkoumávající orgán jedná v samostatné působnosti. Přesněji: přezkoumávající orgány nemají zasahovat **do samostatné působnosti územního celku** ukládáním konkrétních nápravných opatření nebo pozastavením jeho činnosti.
+
+##### Literatura
+
+V použitých místních zdrojích nebyl nalezen samostatný doktrinální titul, jehož bibliografické údaje a konkrétní pasáž k § 1 by bylo možné nezávisle ověřit. Literatura se proto bez ověření nedoplňuje.
+
+##### Výklad
+
+[1] Ustanovení plní tři funkce: vymezuje věcný rámec zákona, určuje jeho osobní působnost a zavádí legislativní zkratky „územní celek“ a „přezkoumání“. Slova „stanoví předmět, hlediska, postup a pravidla“ mají systematickou povahu: odkazují zejména na § 2 až 13 a sama konkrétní kontrolní oprávnění ani povinnosti nevyčerpávají.
+
+[2] Jazykové spojení „přezkoumávání … uložené zvláštními právními předpisy“ potvrzuje, že § 1 sám nezakládá základní povinnost dát si hospodaření každoročně přezkoumat. Ta plyne především z § 17 odst. 4 zákona č. 250/2000 Sb. a je organizačně konkretizována v zákonech o obcích, krajích a hlavním městě Praze. Navazující ustanovení ukládají povinnosti různým adresátům: územním celkům zejména žádací, oznamovací, informační a nápravné povinnosti podle § 4 a 13; § 9 ukládá součinnost právnickým osobám založeným nebo zřízeným územním celkem a u příspěvkové organizace zároveň vymezuje dílčí rozsah kontroly jejího hospodaření.
+
+[3] Územními samosprávnými celky jsou v ústavním smyslu obce a kraje; hlavní město Praha má postavení obce i kraje podle zvláštního zákona. Zákonná zkratka v § 1 je širší než ústavní pojem, protože výslovně zahrnuje také městské části hlavního města Prahy a dobrovolné svazky obcí. Svazek obcí proto podléhá ZPH, přestože sám není územním samosprávným celkem.
+
+[4] Společenství obcí je podle § 53a odst. 1 zákona č. 128/2000 Sb. svazkem obcí splňujícím další zákonné podmínky; zvláštní postavení nabývá právní mocí rozhodnutí krajského úřadu podle § 53c odst. 1. Podle mého názoru je proto zahrnuto do zkratky „územní celek“ bez potřeby výslovného doplnění § 1. Naproti tomu obchodní korporace obce, její příspěvková organizace ani jiné formy meziobecní spolupráce se územním celkem podle § 1 nestávají. Povinnost právnické osoby založené nebo zřízené územním celkem poskytnout součinnost podle § 9 nemění její status; u příspěvkové organizace však druhá věta § 9 výslovně zahrnuje kontrolu hospodaření a nakládání s majetkem a příspěvky. § 1 zahrnuje městské části hlavního města Prahy, nikoli městské obvody nebo části jiných statutárních měst, které podle § 134 odst. 1 zákona o obcích jednají za statutární město.
+
+[5] Osobní působnost § 1 nelze zaměňovat s právem zvolit si přezkoumávající subjekt. Volbu mezi příslušným úřadem a auditorem mají v rozsahu § 4 odst. 1 obce, svazky obcí, hlavní město Praha a jeho městské části. Hospodaření kraje podle § 20 zákona č. 129/2000 Sb. přezkoumává Ministerstvo financí, které může provedením přezkoumání pověřit Generální finanční ředitelství nebo finanční úřad; kraj si však auditora místo tohoto zákonného přezkumu nezvolí.
+
+[6] Historický výklad potvrzuje, že zákon nahradil obsahově i procesně neúplnou podzákonnou úpravu ve vyhlášce č. 41/2002 Sb. jednotným zákonným rámcem. Teleologicky § 1 ohraničuje vnější každoroční přezkum hospodaření. Z důvodové zprávy současně plyne požadavek respektovat samostatnou působnost: přezkoumávající orgán zjišťuje a popisuje nedostatky, zatímco konkrétní nápravná opatření volí příslušné orgány přezkoumávaného subjektu v mezích zákona.
+
+[7] Zákon č. 420/2004 Sb. nabyl účinnosti 1. 8. 2004; tento údaj potvrzují metadata místní e‑Sbírky. Zákon č. 138/2006 Sb. rozšířil s účinností od 1. 7. 2006 § 1 o regionální rady regionů soudržnosti. Článek II bod 1 zákona č. 251/2021 Sb. zrušil uplynutím 31. 12. 2021 sedm v něm vyjmenovaných regionálních rad a čl. XI je s účinností od 1. 1. 2022 vypustil z § 1 ZPH.
+
+[8] Časové použití nelze řešit jedinou obecnou formulí. Přezkoumání zahájená před 1. 8. 2004 se podle § 22 odst. 1 dokončila podle dosavadních předpisů; zvláštní lhůta podle § 22 odst. 2 pro oznámení způsobu přezkoumání za rok 2004 skončila 30. 9. 2004. U zrušení regionálních rad čl. II zákona č. 251/2021 Sb. upravuje zejména právní nástupnictví, probíhající řízení a účetní či finanční výstupy. Článek IX se úžeji vztahuje na správu odvodů za porušení rozpočtové kázně u dotací z rozpočtů regionálních rad, včetně rozběhlých řízení a postupů, příslušnosti, spisů a zveřejnění smluv. Z pouhé změny § 1 nelze dovozovat univerzální přechodné pravidlo pro všechny dřívější vztahy.
+
+[9] Poznámka pod čarou č. 1 obsahuje dva odkazy: § 17 odst. 4 zákona č. 250/2000 Sb. zůstává aktuální, zatímco odkaz na zrušený § 16a zákona č. 248/2000 Sb. má již jen historický význam. Poznámky pod čarou nejsou závaznou normativní součástí pravidla chování; podle mého názoru proto druhý odkaz nemůže rozšířit současnou osobní působnost proti jednoznačnému textu § 1. Srov. nález Ústavního soudu ze dne 30. 11. 1999, sp. zn. II. ÚS 485/98, N 173/16 SbNU 259.
+
+[10] K samotnému § 1 se neváže samostatné řízení ani samostatný subjektivní nárok. Petit, procesní lhůta, důkazní břemeno a soudní poplatek se určují až podle konkrétního navazujícího rozhodnutí nebo zásahu, nikoli podle § 1. Osobní působnost je vstupní otázkou pro použití dalších ustanovení.
+
+[11] Rozhodné je právní postavení subjektu, nikoli jeho název. U svazku obcí se status prokazuje zejména smlouvou o vytvoření svazku, stanovami a zápisem ve veřejném rejstříku svazků obcí. U společenství obcí je třeba připojit pravomocné rozhodnutí krajského úřadu podle § 53c odst. 1 a ověřit odpovídající zápis v rejstříku.
+
+[12] Pro adresáty § 4 odst. 1 je praktický kalendář následující: do 30. 6. požádat příslušný úřad nebo oznámit rozhodnutí zadat přezkoumání auditorovi; o uzavření auditorské smlouvy informovat bez zbytečného odkladu, nejpozději do 31. 1. následujícího roku; není-li přezkum zajištěn, příslušný orgán oznámí pochybení do 28. 2. a podle § 4 odst. 9 přezkoumání vykoná. Tento náhradní postup se nevztahuje na kraje a sám pokutu neukládá.
+
+[13] Sankční titul je nutno od náhradního postupu oddělit. § 22a odst. 1 písm. i) zákona č. 250/2000 Sb. kvalifikuje nezajištění přezkoumání hospodaření jako přestupek, za který lze podle odst. 4 uložit pokutu do 1 000 000 Kč. Pouhé zmeškání termínu volby, po němž příslušný orgán přezkum skutečně provede, nelze bez posouzení všech znaků automaticky ztotožnit s konečným „nezajištěním“ přezkoumání.
+
+> **Vlastní stanovisko:** Podle mého názoru je třeba pojem „nezajistí přezkoumání“ vyložit podle konkrétního výsledku a zavinění; samotné zmeškání volby podle § 4 odst. 1, po němž přezkum proběhne náhradním postupem podle § 4 odst. 9, ještě bez dalšího nenaplňuje všechny znaky přestupku.
+
+##### Judikatura
+
+Cíleným vyhledáním v místním korpusu Ústavního soudu a správních soudů nebylo nalezeno rozhodnutí, jehož nosným důvodem by byl přímý výklad § 1 zákona č. 420/2004 Sb. Rozhodnutí dohledaná k témuž zákonu se týkají zejména právních účinků zprávy, nápravných povinností, přestupků a dozoru; bez přímé vazby se k § 1 nepřebírají.
+
+**Povaha poznámek pod čarou.** Poznámka pod čarou není závaznou normativní součástí pravidla chování a nemůže sama založit rozšiřující výklad jednoznačného textu — nález Ústavního soudu ze dne 30. 11. 1999, sp. zn. II. ÚS 485/98, N 173/16 SbNU 259. Identita a obsahová opora byly ověřeny v místním souboru `Constitutional Court/Decisions/IIUS_485-98.md`. Jde o podpůrnou autoritu k povaze poznámek pod čarou, nikoli o přímý výklad § 1 ZPH ani o důkaz historické souvislosti s přijetím ZPH.
+
+> ⚠️ **[NEOVĚŘENO]** Dosavadní text odkazuje na blíže neurčený „nález Ústavního soudu k nutnosti zákonné formy ukládání povinností ÚSC“. Místní důvodová zpráva ani cílené vyhledání neposkytly spisovou značku nebo rozhodnutí dokládající tvrzenou přímou souvislost s přijetím ZPH. Dokud nebude konkrétní rozhodnutí identifikováno a obsahově ověřeno, nelze tento odkaz používat jako citaci judikatury.
+
+<!-- LEGAL-REVISION:END act=420/2004 provision=1 date=2026-07-17 -->
 
 ---
 
@@ -213,6 +321,88 @@ Předmět přezkumu je dvouvrstvý (odst. 1 toky, odst. 2 stavy a majetek) a uza
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=13a82d3941877d92900c generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 2 — Předmět přezkoumání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> (1) Předmětem přezkoumání jsou údaje o ročním hospodaření územního celku, tvořící součást závěrečného účtu podle zvláštního právního předpisu,2) a to
+>
+> - a) plnění příjmů a výdajů rozpočtu3) včetně peněžních operací, týkajících se rozpočtových prostředků,
+>
+> - b) finanční operace, týkající se tvorby a použití peněžních fondů,
+>
+> - c) náklady a výnosy podnikatelské činnosti územního celku,
+>
+> - d) peněžní operace, týkající se sdružených prostředků vynakládaných na základě smlouvy mezi dvěma nebo více územními celky,4) anebo na základě smlouvy s jinými právnickými nebo fyzickými osobami,5)
+>
+> - e) finanční operace, týkající se cizích zdrojů ve smyslu právních předpisů o účetnictví,6)
+>
+> - f) hospodaření a nakládání s prostředky poskytnutými z Národního fondu7) a s dalšími prostředky ze zahraničí poskytnutými na základě mezinárodních smluv,
+>
+> - g) vyúčtování a vypořádání finančních vztahů ke státnímu rozpočtu, k rozpočtům krajů, k rozpočtům obcí, k jiným rozpočtům, ke státním fondům a k dalším osobám.
+>
+> (2) Předmětem přezkoumání dále je
+>
+> - a) nakládání a hospodaření s majetkem ve vlastnictví územního celku,
+>
+> - b) nakládání a hospodaření s majetkem státu, s nímž hospodaří územní celek,
+>
+> - c) zadávání a uskutečňování veřejných zakázek, s výjimkou úkonů a postupů přezkoumaných orgánem dohledu podle zvláštního právního předpisu,8)
+>
+> - d) stav pohledávek a závazků a nakládání s nimi,
+>
+> - e) ručení za závazky fyzických a právnických osob,9)
+>
+> - f) zastavování movitých a nemovitých věcí ve prospěch třetích osob,10)
+>
+> - g) zřizování věcných břemen k majetku územního celku,
+>
+> - h) účetnictví vedené územním celkem,
+>
+> - i) ověření poměru dluhu územního celku k průměru jeho příjmů za poslední 4 rozpočtové roky podle právního předpisu upravujícího rozpočtovou odpovědnost.
+>
+> (3) Předmětem přezkoumávání nejsou údaje, na které se vztahuje povinnost mlčenlivosti podle daňového řádu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=13a82d3941877d92900c -->
+
 ### § 3 — Hlediska přezkoumání
 
 > **§ 3**
@@ -310,6 +500,60 @@ Hlediska § 3 jsou kumulativní hodnotící mřížkou (zákonnost, rozpočtový
 **Typicky rozhodné důkazy / podklady:** smlouva/rozhodnutí o poskytnutí dotace, faktury a předávací protokoly, výpisy z účtu, schválený rozpočet a rozpočtová opatření, vyúčtování dotace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=92397ddeeae03e423587 generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 3 — Hlediska přezkoumání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> Předmět přezkoumání podle [[#§ 2|§ 2]] se ověřuje z hlediska
+>
+> - a) dodržování povinností stanovených zvláštními právními předpisy, zejména předpisy o finančním hospodaření územních celků,11) o hospodaření s jejich majetkem,12) o účetnictví13) a o odměňování,14)
+>
+> - b) souladu hospodaření s finančními prostředky ve srovnání s rozpočtem,
+>
+> - c) dodržení účelu poskytnuté dotace nebo návratné finanční výpomoci a podmínek jejich použití,
+>
+> - d) věcné a formální správnosti dokladů o přezkoumávaných operacích.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=92397ddeeae03e423587 -->
 
 ## Postup při přezkoumání (§ 4–5)
 
@@ -442,6 +686,68 @@ Paragraf 4 je procesním kalendářem: do 30. 6. žádost nebo oznámení volby 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=03e153fef5e348e18c83 generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 4 — Zabezpečení přezkoumání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> (1) Obce a dobrovolné svazky obcí, které jsou podle zvláštního právního předpisu1) oprávněny požádat o přezkoumání krajský úřad, a hlavní město Praha, které je podle zvláštního právního předpisu oprávněno požádat o přezkoumání Ministerstvo financí, tak učiní do 30. června každého kalendářního roku, anebo v téže lhůtě příslušnému úřadu ve smyslu § 5 odst. 3 oznámí, že se rozhodly zadat přezkoumání auditorovi nebo auditorské společnosti (dále jen „auditor“). Městské části hlavního města Prahy postupují na základě zvláštního právního předpisu15) obdobně vůči Magistrátu hlavního města Prahy.
+>
+> (2) Krajský úřad a Magistrát hlavního města Prahy, na základě požádání nebo oznámení podle odstavce 1 a Ministerstvo financí, které podle zvláštních právních předpisů vykonává přezkoumání u krajů a u hlavního města Prahy, vypracují časové plány přezkoumání (dále jen „plán přezkoumání“) na období od sestavení plánu do 30. června následujícího roku.
+>
+> (3) Přehled o obcích, o dobrovolných svazcích obcí a městských částech, které se rozhodly zadat přezkoumání auditorovi, jakož i plány přezkoumání vypracované podle odstavce 2 předají krajské úřady a Magistrát hlavního města Prahy Ministerstvu financí do 21. července každého kalendářního roku.
+>
+> (4) Na základě plánu se vykonávají do konce kalendářního roku dílčí přezkoumání za předchozí část kalendářního roku a po skončení kalendářního roku se vykonávají dílčí přezkoumání za zbývající část předchozího kalendářního roku a jednorázová přezkoumání za celý předchozí kalendářní rok.
+>
+> (5) Jednorázová přezkoumání může uskutečnit krajský úřad u obcí, které nevykonávají hospodářskou činnost a mají počet obyvatel menší než 800 osob. V ostatních územních celcích se uskutečňují dílčí přezkoumání.
+>
+> (6) Pro účely přezkoumání podle odstavce 4 je rozhodující počet obyvatel přihlášených v obci k trvalému pobytu ke dni 1. ledna kalendářního roku, jehož se přezkoumání týká.
+>
+> (7) Rozhodne-li se obec, včetně hlavního města Prahy, dobrovolný svazek obcí nebo městská část hlavního města Prahy zadat přezkoumání auditorovi, uzavře s ním písemnou smlouvu o poskytnutí auditorské činnosti podle zákona upravujícího činnost auditorů, jejímiž náležitostmi jsou rovněž předmět a hlediska přezkoumání a obsah zprávy o výsledku přezkoumání hospodaření, odpovídající ustanovením [[#§ 2|§ 2]], [[#§ 3|3]] a [[#§ 10|10]], a dále lhůta předání této zprávy.
+>
+> (8) O uzavření smlouvy s auditorem informuje obec a dobrovolný svazek obcí příslušný krajský úřad, městská část hlavního města Prahy Magistrát hlavního města Prahy a hlavní město Praha Ministerstvo financí. Tato informace se podává bez zbytečného odkladu, nejpozději však do 31. ledna následujícího roku.
+>
+> (9) Nesplnění povinnosti požádat o přezkoumání Ministerstvo financí v případě hlavního města Prahy, krajský úřad v případě obce nebo dobrovolného svazku obcí a Magistrát hlavního města Prahy v případě městských částí hlavního města Prahy, anebo zadat přezkoumání auditorovi, oznámí příslušný přezkoumávající orgán ve smyslu § 5 odst. 3 zastupitelstvu příslušného územního celku, nebo orgánu svazku obcí do 28. února následujícího roku a přezkoumání vykoná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5, § 2, § 3, § 10
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=03e153fef5e348e18c83 -->
+
 ### § 5 — Předpoklady pro výkon přezkoumání
 
 > **§ 5**
@@ -527,6 +833,58 @@ Paragraf 5 stanoví kvalifikační minima kontrolora (střední vzdělání, 3 r
 **Typicky rozhodné důkazy / podklady:** oznámení o zahájení přezkumu, doklady o kvalifikaci a bezúhonnosti kontrolora, doklad o doručení do datové schránky (čas), případně výpis z Rejstříku trestů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c9145356dac86ea9f32f generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 5 — Předpoklady pro výkon přezkoumání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> (1) Výkonem přezkoumání pověří Ministerstvo financí státní zaměstnance zařazené v tomto ministerstvu, Generální finanční ředitelství nebo finanční úřad státní zaměstnance zařazené v těchto orgánech, krajský úřad zaměstnance kraje a Magistrát hlavního města Prahy zaměstnance hlavního města Prahy; zaměstnanci pověření výkonem přezkoumání (dále jen „kontrolor“) musí mít alespoň úplné střední vzdělání, musí splňovat požadavek praxe spočívající v činnosti, která souvisí odborně s předmětem přezkoumání, nejméně po dobu 3 let, a musí být bezúhonní. Tím nejsou dotčena ustanovení zvláštních právních předpisů.17)
+>
+> (2) Za bezúhonného se pro účely tohoto zákona nepovažuje zaměstnanec, který byl pravomocně odsouzen za úmyslný trestný čin, anebo za trestný čin majetkové povahy, nebo za trestný čin související s výkonem veřejné správy spáchané z nedbalosti, pokud se podle zvláštního právního předpisu na pachatele nehledí, jako by nebyl odsouzen.
+>
+> (3) Ministerstvo financí, Generální finanční ředitelství, finanční úřad, krajský úřad, Magistrát hlavního města Prahy (dále jen „přezkoumávající orgán“) zahajuje přezkoumání písemným oznámením doručeným územnímu celku nejpozději 5 dnů přede dnem realizace výkonu přezkoumání a obsahujícím jméno kontrolora pověřeného řízením přezkoumání.
+>
+> (4) Při výkonu přezkoumávání podle § 6 až 12 je kontrolor oprávněn si vyžádat od kontrolované účetní jednotky nebo od jiného kontrolního orgánu účetní záznamy též prostřednictvím centrálního systému účetních informací státu, anebo si vyžádat účetní záznamy od správce centrálního systému účetních informací státu, za podmínek stanovených zákonem [[o účetnictví|o účetnictví]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c9145356dac86ea9f32f -->
 
 ## Pravidla přezkoumání (§ 6, 7, 9)
 
@@ -635,6 +993,66 @@ Paragraf 6 stanoví šestikrokový kontradiktorní rytmus přezkumu (zápisy →
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b93a969a0aab112e184c generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 6 — Práva a povinnosti kontrolorů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> (1) Kontroloři jsou povinni
+>
+> - a) pořídit zápisy z jednotlivých dílčích přezkoumání a zprávu o výsledku přezkoumání hospodaření,
+>
+> - b) seznámit územní celek s obsahem zápisu z dílčích přezkoumání za účelem umožnění přijetí opatření k nápravě zjištěných chyb a nedostatků v něm uvedených,
+>
+> - c) předat územnímu celku návrh zprávy o výsledku přezkoumání, podepsaný kontrolorem pověřeným řízením přezkoumání,
+>
+> - d) umožnit územnímu celku podat k návrhu zprávy o výsledku přezkoumání hospodaření písemné stanovisko do 15 dnů ode dne předání návrhu této zprávy, pokud kontrolor pověřený řízením přezkoumání v odůvodněném případě nestanoví lhůtu delší; stanovisko se doručuje kontrolorovi pověřenému řízením přezkoumání,
+>
+> - e) prověřit námitky uplatněné ve stanovisku podle písmene d) a písemné závěry z tohoto prověření, podepsané kontrolorem pověřeným řízením přezkoumání nebo jeho nejbližším nadřízeným, předat územnímu celku a projednat je s ním bez zbytečného odkladu, nejpozději však do 15 dnů ode dne doručení stanoviska, pokud s územním celkem v odůvodněném případě nedohodne kontrolor pověřený řízením přezkoumání lhůtu delší,
+>
+> - f) předat a s územním celkem projednat konečné znění zprávy o výsledku přezkoumání hospodaření.
+>
+> (2) Jestliže kontrolor při přezkoumání zjistí skutečnosti nasvědčující tomu, že byl spáchán trestný čin, postupuje podle zvláštního právního předpisu21) a neprodleně o nich písemně informuje příslušné zastupitelstvo, případně statutární orgán dobrovolného svazku obcí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b93a969a0aab112e184c -->
+
 ### § 7 — Práva a povinnosti územních celků
 
 > **§ 7**
@@ -720,6 +1138,60 @@ Paragraf 7 je katalogem procesních práv obce zrcadlícím povinnosti kontrolor
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=667564f1577fada9061f generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 7 — Práva a povinnosti územních celků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> Územní celek, u něhož se přezkoumání koná, má právo
+>
+> - a) být seznámen s obsahem zápisů z dílčích přezkoumání,
+>
+> - b) být seznámen s návrhem zprávy o výsledku přezkoumání hospodaření ([[#§ 10|§ 10]]) a obdržet její stejnopis,
+>
+> - c) doručit kontrolorovi pověřenému řízením přezkoumání písemné stanovisko k návrhu zprávy o výsledku přezkoumání hospodaření a požadovat jeho přiložení ke zprávě o výsledku přezkoumání hospodaření,
+>
+> - d) být seznámen se zprávou o výsledku přezkoumání hospodaření a obdržet její stejnopis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=667564f1577fada9061f -->
+
 ### § 9 — Součinnost zřízených právnických osob
 
 > **§ 9**
@@ -794,6 +1266,52 @@ Paragraf 9 rozšiřuje přezkum mimo samotnou obec: příspěvkové organizace p
 **Typicky rozhodné důkazy / podklady:** zřizovací a zakladatelské listiny, účetní výkazy PO, inventarizační doklady, vyúčtování provozních příspěvků, smlouvy mezi obcí a jejími PO, doklady o vkladech a výplatách podílů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d9b196a1a9577f0b4f27 generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 9
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> Při přezkoumání je povinna poskytnout součinnost i územním celkem zřízená nebo založená právnická osoba. U příspěvkové organizace přezkoumávající orgán kontroluje hospodaření a nakládání s majetkem a s příspěvky, které jí územní celek poskytl.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d9b196a1a9577f0b4f27 -->
 
 ## Zpráva a její projednání (§ 10–12)
 
@@ -983,6 +1501,94 @@ Zpráva je centrálním výstupem zákona; nahrazuje protokol o kontrole a má z
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=80e6385593c52c89681b generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 10 — Zpráva o výsledku přezkoumání hospodaření a její náležitosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> (1) Zpráva o výsledku přezkoumání hospodaření nahrazuje protokol o kontrole podle kontrolního řádu a zpracovává se na základě výsledků jednorázového přezkoumání, anebo na základě zápisů z dílčích přezkoumání.
+>
+> (2) Zpráva o výsledku přezkoumání hospodaření kromě náležitostí stanovených kontrolním řádem pro protokol o kontrole musí obsahovat
+>
+> - a) místo, kde se přezkoumání uskutečňovalo, období, v němž probíhalo, dále rok, za který bylo přezkoumání vykonáno,
+>
+> - b) popis zjištěných chyb a nedostatků včetně uvedení povinností, stanovených zvláštními právními předpisy, nebo jiných hledisek přezkoumání, které nebyly dodrženy,
+>
+> - c) označení všech dokladů a jiných materiálů využitých při přezkoumání,
+>
+> - d) závěr z přezkoumání.
+>
+> (3) Závěr zprávy o výsledku přezkoumání hospodaření ve smyslu odstavce 2 písm. d) musí obsahovat vyjádření, zda při přezkoumání podle [[#§ 2|§ 2]] a [[#§ 3|3]]
+>
+> - a) nebyly zjištěny chyby a nedostatky, nebo
+>
+> - b) byly zjištěny chyby a nedostatky, které nemají závažnost nedostatků uvedených pod písmenem c), anebo
+>
+> - c) byly zjištěny nedostatky, spočívající
+>
+> - 1. v porušení rozpočtové kázně nebo ve spáchání přestupku podle zákona upravujícího [[rozpočtová pravidla|rozpočtová pravidla]] územních rozpočtů,
+>
+> - 2. v neúplnosti, nesprávnosti nebo neprůkaznosti vedení účetnictví,
+>
+> - 3. v pozměňování záznamů nebo dokladů v rozporu se zvláštními právními předpisy,
+>
+> - 4. v porušení povinností nebo překročení působnosti územního celku stanovených zvláštními právními předpisy,
+>
+> - 5. v neodstranění nedostatků zjištěných při dílčím přezkoumání nebo při přezkoumání za předcházející roky, nebo
+>
+> - 6. v nevytvoření podmínek pro přezkoumání podle kontrolního řádu, znemožňující splnit požadavky stanovené v [[#§ 2|§ 2]] a [[#§ 3|3]].
+>
+> (4) Povinnou náležitostí závěru zprávy o výsledku přezkoumání hospodaření je dále
+>
+> - a) upozornění na případná rizika, která lze dovodit ze zjištění podle odstavce 2 písm. b) a která mohou mít negativní dopad na hospodaření územního celku v budoucnosti,
+>
+> - b) uvedení podílu pohledávek a závazků na rozpočtu územního celku a podílu zastaveného majetku na celkovém majetku územního celku,
+>
+> - c) výrok o tom, že dluh územního celku nepřekročil 60 % průměru jeho příjmů za poslední 4 rozpočtové roky; v opačném případě se uvede, o kolik jeho dluh překročil průměr jeho příjmů.
+>
+> (5) Povinnou přílohou zprávy je i stanovisko podle § 7 odst. 1 písm. c), pokud bylo příslušnému kontrolorovi doručeno.
+>
+> (6) Povinnost zajistit řádné a včasné vypracování zprávy o výsledku přezkoumání hospodaření má kontrolor pověřený řízením přezkoumání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 3, § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=80e6385593c52c89681b -->
+
 ### § 11 — Projednání zprávy o výsledku přezkoumání hospodaření a její předání
 
 > **§ 11**
@@ -1055,6 +1661,52 @@ Paragraf 11 určuje, že konečnou zprávu kontrolor projedná s nejvyšším p�
 **Typicky rozhodné důkazy / podklady:** konečná zpráva a doklad o jejím předání statutárnímu adresátovi, pozvánka a zápis ze zasedání zastupitelstva, doklad o zveřejnění závěrečného účtu se zprávou.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0a39288b17beebabad06 generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 11 — Projednání zprávy o výsledku přezkoumání hospodaření a její předání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> Kontrolor pověřený řízením přezkoumání projedná zprávu o výsledku přezkoumání hospodaření se starostou, u statutárního města s primátorem, u hlavního města Prahy s primátorem hlavního města Prahy, u kraje s hejtmanem kraje a u dobrovolného svazku obcí s osobou určenou stanovami dobrovolného svazku obcí a předá jim její stejnopis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0a39288b17beebabad06 -->
 
 ### § 12 — Přezkoumání auditorem
 
@@ -1157,6 +1809,56 @@ Paragraf 12 podřizuje auditorský přezkum kogentnímu minimu ZPH (§ 2, 3, 10)
 **Typicky rozhodné důkazy / podklady:** auditorská smlouva, auditorská zpráva o výsledku přezkoumání, usnesení o projednání v orgánech ÚSC, doklad o předání zprávy přezkoumávajícímu orgánu, registr smluv.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=850b55f9a04a93813467 generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 12 — Přezkoumání auditorem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> (1) Auditor se při přezkoumání řídí ustanoveními [[#§ 2|§ 2]], [[#§ 3|3]] a [[#§ 10|10]] a § 17 odst. 2.
+>
+> (2) Projednání zprávy o výsledku přezkoumání hospodaření auditorem se řídí ustanovením o projednání zprávy o ověření účetní závěrky podle zákona upravujícího auditorskou činnost obdobně. Stejnopis zprávy o výsledku přezkoumání hospodaření auditorem předá územní celek přezkoumávajícímu orgánu do 15 dnů po jejím projednání v orgánech územního celku.23)
+>
+> (3) Při přezkoumání vykonávaném na základě smlouvy podle § 4 odst. 7 postupuje auditor podle zákona upravujícího auditorskou činnost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 3, § 10, § 17, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=850b55f9a04a93813467 -->
 
 ## Nápravná opatření (§ 13)
 
@@ -1264,6 +1966,60 @@ Paragraf 13 zavádí trojstupňový nápravný režim: bezodkladná náprava ned
 **Typicky rozhodné důkazy / podklady:** zpráva o výsledku přezkoumání, usnesení zastupitelstva o opatřeních k nápravě, písemná informace zaslaná KÚ, zpráva o plnění opatření, doklady o doručení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7e853e2f693e4dff00b2 generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 13 — Přijetí a plnění opatření k nápravě zjištěných chyb a nedostatků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> (1) Územní celek je povinen
+>
+> - a) přijmout opatření k nápravě chyb a nedostatků uvedených v zápisu z dílčího přezkoumání, a to bezodkladně poté, co byl s nimi seznámen podle § 6 odst. 1 písm. b), a podat o tom informaci, včetně informace o jejich splnění, přezkoumávajícímu orgánu při konečném přezkoumání,
+>
+> - b) přijmout opatření k nápravě chyb a nedostatků uvedených ve zprávě o výsledku přezkoumání hospodaření zpracované přezkoumávajícím orgánem, nebo auditorem a podat o tom písemnou informaci příslušnému přezkoumávajícímu orgánu, a to nejpozději do 15 dnů po projednání této zprávy spolu se závěrečným účtem v orgánech územního celku.23)
+>
+> (2) Územní celek je dále povinen v informacích podle odstavce 1 písm. b) uvést lhůtu, ve které podá příslušnému přezkoumávajícímu orgánu písemnou zprávu o plnění přijatých opatření, a v této lhůtě příslušnému přezkoumávajícímu orgánu uvedenou zprávu zaslat.
+>
+> (3) Přezkoumávající orgány jsou oprávněny kontrolovat plnění opatření, přijatých podle odstavce 1. Kontroloři se při kontrole plnění opatření řídí ustanoveními kontrolního řádu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7e853e2f693e4dff00b2 -->
 
 ## Přestupky (§ 14, 15)
 
@@ -1383,6 +2139,66 @@ Paragraf 14 trestá procesní pochybení kolem zprávy a součinnosti (nepředá
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c91e269acf1344724aff generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 14 — Přestupky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> (1) Územní celek se dopustí přestupku tím, že
+>
+> - a) do 15 dnů ode dne projednání zprávy o výsledku přezkoumání hospodaření auditorem v orgánech územního celku nepředá její stejnopis příslušnému přezkoumávajícímu orgánu podle § 12 odst. 2,
+>
+> - b) v rozporu s § 13 odst. 1 písm. b) do 15 dnů po projednání zprávy o výsledku přezkoumání hospodaření zpracované přezkoumávajícím orgánem, nebo auditorem
+>
+> - 1. nepřijme opatření k nápravě chyb a nedostatků uvedených ve zprávě o výsledku přezkoumání hospodaření nebo v zápise z dílčího přezkoumání, anebo
+>
+> - 2. o tom nepodá písemnou informaci příslušnému přezkoumávajícímu orgánu,
+>
+> - c) v informaci o přijetí opatření k nápravě chyb a nedostatků uvedených ve zprávě o výsledku přezkoumání hospodaření zpracované přezkoumávajícím orgánem, nebo auditorem neuvede lhůtu, ve které podá příslušnému přezkoumávajícímu orgánu písemnou zprávu o plnění přijatých opatření podle § 13 odst. 2, nebo
+>
+> - d) neposkytne auditorovi na jeho žádost veškeré jím vyžadované doklady, jiné písemnosti, informace nebo vysvětlení podle kontrolního řádu.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 50 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12, § 13
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c91e269acf1344724aff -->
+
 ### § 15 — Společná ustanovení k přestupkům
 
 > **§ 15**
@@ -1456,6 +2272,54 @@ Paragraf 15 soustřeďuje projednání přestupků do rukou přezkoumávajícíh
 **Typicky rozhodné důkazy / podklady:** doklad o tom, který orgán přezkum vykonal, usnesení o zahájení přestupkového řízení, rozhodnutí o uložení pokuty, doklady o jejím vyměření a vymáhání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5cd27cbe1ca54139d06f generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 15 — Společná ustanovení k přestupkům
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> (1) Přestupky podle tohoto zákona projednává přezkoumávající orgán.
+>
+> (2) Pokuty vybírá a vymáhá orgán, který je uložil, s výjimkou Ministerstva financí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5cd27cbe1ca54139d06f -->
 
 ## Dozor nad přezkoumáním auditorem (§ 20)
 
@@ -1540,6 +2404,54 @@ Paragraf 20 zavádí státní dozor pouze u auditorské varianty přezkumu: vyko
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3bcd67982bba5a80579e generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 20 — Dozor nad přezkoumáním vykonaným auditorem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> (1) Přezkoumání podléhá dozoru státu v případě, že je vykonal auditor. Dozor nad přezkoumáním přísluší Ministerstvu financí a vykonává se u příslušného územního celku.
+>
+> (2) Písemnou zprávu o výsledcích dozorů nad přezkoumáními vykonanými auditory předává Ministerstvo financí Komoře auditorů České republiky k dalšímu postupu podle zákona upravujícího auditorskou činnost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3bcd67982bba5a80579e -->
+
 ## Společná, přechodná a závěrečná ustanovení (§ 21–24)
 
 ### § 21 — Společná ustanovení
@@ -1620,6 +2532,54 @@ Paragraf 21 vyjasňuje vztah ZPH k jiným kontrolám: přezkum hospodaření nev
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0b0069f69d332a8a8f47 generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 21 — Společná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> (1) Tímto zákonem není dotčena působnost správců kapitol státního rozpočtu a ostatních kontrolních orgánů vykonávat u příjemců dotací kontrolu dodržení účelu a podmínek poskytnutí dotací podle zvláštních právních předpisů.29)
+>
+> (2) Pokud součástí dobrovolného svazku obcí je hlavní město Praha, řeší se postup při přezkoumávání jeho hospodaření ustanoveními o přezkoumání u hlavního města Prahy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0b0069f69d332a8a8f47 -->
+
 ### § 22 — Přechodná ustanovení
 
 > **§ 22**
@@ -1636,9 +2596,13 @@ Paragraf 21 vyjasňuje vztah ZPH k jiným kontrolám: přezkum hospodaření nev
 
 Standardní intertemporální pravidlo: **přezkumy zahájené před účinností ZPH** (tj. před 1. 9. 2004) se **dokončí podle dosavadních předpisů** — vyhlášky č. 41/2002 Sb. (pozn. 30 ZPH). Důvody: právní jistota, ochrana procesních očekávání, ekonomie řízení. Pravidlo dnes již **vyčerpalo svůj normativní obsah** (přechodné řízení dávno proběhlo); jako historický prvek však v textu zákona zůstává.
 
+> ⚠️ **[VĚCNÁ OPRAVA]** ZPH nabyl účinnosti **1. 8. 2004**, nikoli 1. 9. 2004. Rozhodným dnem podle § 22 odst. 1 je proto 1. 8. 2004. Oprava vychází z § 24 a z místního konsolidovaného znění e‑Sbírky; všechny níže ponechané odkazy této části na 1. 9. 2004 je nutno číst jako 1. 8. 2004.
+
 #### Specifická lhůta pro rok 2004 (odst. 2)
 
 Pro rok 2004 byla lhůta podle § 4 odst. 1 (oznámení způsobu přezkoumání do 30. 6.) **prodloužena** na poslední den kalendářního měsíce následujícího po nabytí účinnosti ZPH (tj. **do 30. září 2004**, neboť zákon nabyl účinnosti 1. 9. 2004). Toto pravidlo také již vyčerpalo svůj obsah.
+
+> ⚠️ **[VĚCNÁ OPRAVA]** Odůvodnění data 30. 9. 2004 v předchozí větě je chybné. Při účinnosti od 1. 8. 2004 skončila zvláštní lhůta podle § 22 odst. 2 posledním dnem kalendářního měsíce následujícího po dni nabytí účinnosti, tedy rovněž **30. 9. 2004**. Výsledek je správný, výchozí datum nikoli.
 
 #### F. Kazuistika
 
@@ -1678,6 +2642,54 @@ Paragraf 22 je intertemporálním pravidlem: přezkumy zahájené před 1. 9. 20
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=593e3d74bb4837257cab generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 22 — Přechodná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> (1) Přezkoumání zahájená přede dnem nabytí účinnosti tohoto zákona se dokončí podle dosavadních právních předpisů.30)
+>
+> (2) Lhůta pro oznámení způsobu přezkoumání podle § 4 odst. 1 za rok 2004 končí posledním dnem kalendářního měsíce následujícího po dni nabytí účinnosti tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=593e3d74bb4837257cab -->
+
 ### § 23 — Zrušovací ustanovení
 
 > **§ 23**
@@ -1707,6 +2719,8 @@ Derogace má **„úplnou" povahu** — vyhlášky pozbývají platnosti **jako 
 
 **1. Modelová situace.** V právní analýze týkající se přezkumu hospodaření za rok 2003 se objeví odkaz na vyhlášku č. 41/2002 Sb. jako na „platný prováděcí předpis". Protistrana namítá, že tato vyhláška byla zrušena a od 1. 9. 2004 ji nahradil ZPH; aplikovat ji na současné poměry nelze. Vyvstává otázka, jaký dopad mělo zrušení vyhlášek a proč k němu došlo. Účastníci: zpracovatel analýzy, oponent. Důkazy: text § 23 ZPH, znění zrušených vyhlášek, nález Ústavního soudu k zákonné formě ukládání povinností ÚSC.
 
+> ⚠️ **[VĚCNÁ OPRAVA]** Také v této části je rozhodným dnem **1. 8. 2004**, nikoli 1. 9. 2004. Derogační účinek § 23 nastal současně s účinností ZPH. Všechny níže ponechané odkazy této části na 1. 9. 2004 je nutno číst jako 1. 8. 2004.
+
 **2. Právní otázka.** Jaký je právní následek § 23 a proč musela být materie přezkumu povýšena z vyhlášky na zákon?
 
 **3. Použitelné právo.**
@@ -1714,6 +2728,8 @@ Derogace má **„úplnou" povahu** — vyhlášky pozbývají platnosti **jako 
 - *Související ustanovení téhož zákona:* § 22 (přechodná ustanovení — dokončení podle dosavadní úpravy); § 24 (účinnost); § 1 (předmět úpravy povýšený na zákon).
 - *Související předpisy:* čl. 79 odst. 3 a čl. 104 odst. 1 Ústavy (meze podzákonné normotvorby a zákonná forma povinností ÚSC); § 17 zákona č. 250/2000 Sb. (hmotněprávní základ přezkumu).
 - *Judikatura:* nález Ústavního soudu (zmíněný v úvodu komentáře), podle něhož povinnosti ukládané územní samosprávě musí mít zákonný základ; podzákonné ukládání povinností ÚSC bez zákonné opory je protiústavní.
+
+> ⚠️ **[NEOVĚŘENO]** Předchozí odkaz neuvádí spisovou značku ani datum rozhodnutí a z místního korpusu jej nelze bezpečně přiřadit ke konkrétnímu nálezu. Do ověření nesmí sloužit jako judikatorní opora tvrzení o důvodu přijetí ZPH.
 
 **4. Subsumpce.** § 23 zrušuje obě vyhlášky jako celek (úplná derogace) → ode dne účinnosti ZPH (1. 9. 2004) pozbyly platnosti. Znak „zákonná forma" je naplněn povýšením úpravy na úroveň zákona (ZPH), čímž se odstranil ústavní deficit podzákonné úpravy. Aplikace zrušené vyhlášky na současné poměry je vyloučena (s výjimkou historických řízení dle § 22 odst. 1).
 
@@ -1740,6 +2756,57 @@ Paragraf 23 úplně derogoval vyhlášku č. 41/2002 Sb. a její novelu č. 67/2
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b19c286014665cf696ba generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 23 — Zrušovací ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> Zrušuje se:
+>
+> - 1. [[Vyhláška č. 41/2002 Sb., o přezkoumání hospodaření územních samosprávných celků a dobrovolných svazků obcí|Vyhláška č. 41/2002 Sb., o přezkoumání hospodaření územních samosprávných celků a dobrovolných svazků obcí]].
+>
+> - 2. [[Vyhláška č. 67/2003 Sb., kterou se mění vyhláška č. 41/2002 Sb., o přezkoumání hospodaření územních samosprávných celků a dobrovolných svazků obcí|Vyhláška č. 67/2003 Sb., kterou se mění vyhláška č. 41/2002 Sb., o přezkoumání hospodaření územních samosprávných celků a dobrovolných svazků obcí]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- zákon č. 41/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 67/2003 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b19c286014665cf696ba -->
+
 ### § 24 — Účinnost
 
 > **§ 24**
@@ -1751,6 +2818,8 @@ Paragraf 23 úplně derogoval vyhlášku č. 41/2002 Sb. a její novelu č. 67/2
 **Výklad:**
 
 #### Účinnost 1. 9. 2004
+
+> ⚠️ **[VĚCNÁ OPRAVA]** Nadpis i níže ponechaný původní výklad uvádějí nesprávný den účinnosti. ZPH nabyl účinnosti **1. 8. 2004**. Ustanovení § 24 váže účinnost na první den kalendářního měsíce následujícího po vyhlášení; nevyžaduje uplynutí ještě jednoho celého mezilehlého měsíce. Tvrzení o vyhlášení dne 9. 7. 2004 a o částce 138/2004 nebylo v použitých místních datech nezávisle ověřeno a označuje se proto **⚠️ [NEOVĚŘENO]**. Veškeré níže ponechané závěry založené na datech 1. 9. 2004, 31. 8. 2004 nebo na označení srpna 2004 za dobu před účinností jsou věcně chybné.
 
 Zákon byl vyhlášen ve Sbírce zákonů ČR dne **9. července 2004** (částka 138/2004). Účinnost stanovená jako „první den kalendářního měsíce následujícího po vyhlášení" nastala **1. září 2004** (mezi vyhlášením a srpnem se nepočítá; první „následující" měsíc je září).
 
@@ -1803,6 +2872,52 @@ Paragraf 24 stanoví účinnost ZPH na 1. 9. 2004 (první den měsíce následuj
 **Typicky rozhodné důkazy / podklady:** Sbírka zákonů (částka 138/2004, datum vyhlášení), text § 24, doklad o datu uskutečnění posuzovaného úkonu či zahájení řízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4f5d978b925a9c61bfeb generator=2026-07-17.4 source_sha256=cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733 -->
+#### Revizní doplnění k § 24 — Účinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/420-2004 Zákon o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí.md`; identifikátor verze: `SB-2004-00420_2025-07-01`; SHA-256: `cd6397abf0a07fee7b3e14c6bcf45652acd180918a226b031a6d6830c5871733`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti prvním dnem kalendářního měsíce následujícího po jeho vyhlášení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4f5d978b925a9c61bfeb -->
 
 ## Závěr komentáře
 
